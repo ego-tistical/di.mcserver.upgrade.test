@@ -1,0 +1,6 @@
+uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+name: Ego_tistical
+primary-group: default
+parents:
+- default
+- superadmin

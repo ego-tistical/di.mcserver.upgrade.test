@@ -1,0 +1,32 @@
+adminshop:
+  location: world, -2563.544, 74.744, -1089.742
+  lines:
+  - Welcome to the Admin Shop
+auctionhouseentrance:
+  location: world, -2563.536, 84.242, -1005.516
+  lines:
+  - '&u&lAUCTIONHOUSE'
+auctionhousethisway:
+  location: world, -2563.540, 85.158, -1054.012
+  lines:
+  - AUCTIONHOUSE
+  - This Way!
+mallmartthisway:
+  location: world, -2563.451, 84.625, -1117.317
+  lines:
+  - MALLMART
+  - This Way!
+spawnwelcome:
+  location: world, -2547.843, 85.533, -1084.499
+  lines:
+  - WELCOME TO THE UNOFFICIAL DI MC SERVER
+  - Check out the DI-CV Forums on dmginc.gg for more info
+traintourthisway:
+  location: world, -2573.382, 84.742, -1084.503
+  lines:
+  - TRAIN TOUR
+  - This Way!
+mallmartentrance:
+  location: world, -2563.558, 83.492, -1164.409
+  lines:
+  - '&u&lMALLMART'

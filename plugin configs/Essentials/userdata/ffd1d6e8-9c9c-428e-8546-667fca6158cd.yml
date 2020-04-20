@@ -1,0 +1,29 @@
+lastAccountName: WaZeFX
+timestamps:
+  login: 1585909631651
+  lastteleport: 1585910296542
+  logout: 1585910716001
+ipAddress: 94.252.88.70
+lastlocation:
+  world: world
+  x: 75.50739381079158
+  y: 63.0
+  z: 1318.274219404464
+  yaw: 56.93695
+  pitch: 25.914711
+money: '248.25'
+homes:
+  home:
+    world: world
+    x: -154.69999998807907
+    y: 12.0
+    z: 1223.364809485875
+    yaw: 51.35443
+    pitch: 25.133844
+logoutlocation:
+  world: world
+  x: -1489.780603480032
+  y: 63.0
+  z: 87.28103871649436
+  yaw: 90.35311
+  pitch: 24.201466

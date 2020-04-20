@@ -1,0 +1,1334 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 33
+npc:
+  '15':
+    metadata:
+      ambient-sound: ''
+      protected: true
+      death-sound: ''
+      hurt-sound: ''
+      silent-sounds: true
+    name: Brew Master
+    uuid: 67f1e3d5-f654-4653-8768-2a240ee0d756
+    traits:
+      age:
+        age: 0
+        locked: true
+      type: VILLAGER
+      location:
+        headYaw: 33.9613
+        world: world
+        x: '-1399.6493'
+        y: '65.0'
+        z: '-67.4271'
+        yaw: '33.9613'
+        pitch: '0.0'
+      profession: NITWIT
+      spawned: true
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: owner,lookclose,mounttrait,age,location,type,profession,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '14':
+    name: Librarian
+    uuid: b8ec87de-8b0b-483b-afa7-b1d70831c53c
+    traits:
+      age:
+        age: 0
+        locked: true
+      type: VILLAGER
+      location:
+        headYaw: 327.86758
+        world: world
+        x: '-2565.2634'
+        y: '83.0'
+        z: '-1103.3976'
+        yaw: '327.8676'
+        pitch: '0.0'
+      profession: LIBRARIAN
+      spawned: true
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '-2567.0'
+                y: '82.0'
+                z: '-1110.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '-2565.0'
+                y: '82.0'
+                z: '-1102.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '-2569.0'
+                y: '82.0'
+                z: '-1101.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: world
+                x: '-2566.0'
+                y: '82.0'
+                z: '-1116.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: owner,mounttrait,age,location,type,waypoints,profession,spawned
+    navigator:
+      speedmodifier: '0.5'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '13':
+    name: Guard Golem
+    uuid: 7b979e89-616b-4299-896c-81f0da0b18d2
+    traits:
+      type: IRON_GOLEM
+      location:
+        headYaw: 184.56668
+        world: world
+        x: '-2581.5965'
+        y: '83.0'
+        z: '-1082.7779'
+        yaw: '184.5667'
+        pitch: '0.0'
+      spawned: true
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: lookclose,owner,mounttrait,location,type,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '11':
+    name: Guard Golem
+    uuid: 80ffb2e4-ef4c-42a7-9de7-d2646a326422
+    traits:
+      type: IRON_GOLEM
+      location:
+        headYaw: -3.9223938
+        world: world
+        x: '-2581.6729'
+        y: '83.0'
+        z: '-1086.3801'
+        yaw: '-3.9224'
+        pitch: '0.0'
+      spawned: true
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: lookclose,owner,mounttrait,location,type,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '9':
+    metadata:
+      ambient-sound: ''
+      death-sound: ''
+      hurt-sound: ''
+      silent-sounds: true
+    name: Portal Keeper
+    uuid: 378e4389-8072-4a90-b6ca-4edf9b9b6a69
+    traits:
+      age:
+        age: 0
+        locked: true
+      speech: chat
+      type: VILLAGER
+      location:
+        headYaw: 93.999466
+        world: world
+        x: '-2613.2975'
+        y: '78.0'
+        z: '-1084.5366'
+        yaw: '93.9995'
+        pitch: '0.0'
+      profession: CLERIC
+      spawned: true
+      text:
+        delay: -1
+        talk-close: true
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Go through the portal behind me to go to the Train Station
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: owner,lookclose,mounttrait,age,speech,location,text,type,profession,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '7':
+    metadata:
+      ambient-sound: ''
+      death-sound: ''
+      hurt-sound: ''
+      silent-sounds: true
+    name: Click me to go to AuctionHouse
+    uuid: 3c50b8fe-0717-41c6-8adf-9e677fb3ee39
+    traits:
+      age:
+        age: 0
+        locked: true
+      commandtrait:
+        commands:
+          '0':
+            command: warp auctionhouse
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            n: -1
+      type: VILLAGER
+      location:
+        headYaw: -48.63337
+        world: world
+        x: '-2541.6001'
+        y: '83.0'
+        z: '-1088.3463'
+        yaw: '-48.6334'
+        pitch: '0.0'
+      profession: MASON
+      spawned: true
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: owner,lookclose,mounttrait,age,location,type,commandtrait,profession,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '6':
+    metadata:
+      ambient-sound: ''
+      death-sound: ''
+      hurt-sound: ''
+      silent-sounds: true
+    name: Click me to go to Mall Mart!
+    uuid: 27ea0e43-aae7-4b62-a854-c117fa5a4a65
+    traits:
+      age:
+        age: 0
+        locked: true
+      commandtrait:
+        commands:
+          '0':
+            command: warp mallmart
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            n: -1
+      type: VILLAGER
+      followtrait:
+        active: false
+        followingUUID: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+        protect: false
+      location:
+        headYaw: -199.68991
+        world: world
+        x: '-2541.4277'
+        y: '83.0'
+        z: '-1080.4641'
+        yaw: '-199.6899'
+        pitch: '0.0'
+      profession: CARTOGRAPHER
+      spawned: true
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: owner,lookclose,mounttrait,age,location,type,followtrait,commandtrait,profession,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '5':
+    metadata:
+      ambient-sound: ''
+      glowing: false
+      death-sound: ''
+      hurt-sound: ''
+      silent-sounds: true
+    name: AuctionHouse Attendant
+    uuid: b2c30e72-bf3f-419e-828c-ae3d680c15c4
+    traits:
+      age:
+        age: 0
+        locked: true
+      speech: chat
+      type: VILLAGER
+      location:
+        headYaw: 0.0
+        world: world
+        x: '-2561.5764'
+        y: '80.0'
+        z: '-1014.4517'
+        yaw: '0.0'
+        pitch: '0.0'
+      profession: LIBRARIAN
+      spawned: true
+      text:
+        delay: -1
+        talk-close: true
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, Welcome to the AuctionHouse!
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      villagertrait:
+        level: 1
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: owner,lookclose,mounttrait,age,speech,location,text,type,villagertrait,profession,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    metadata:
+      ambient-sound: ''
+      death-sound: ''
+      hurt-sound: ''
+      silent-sounds: true
+    name: Mall Attendant
+    uuid: 35e8b972-3b33-4edc-b5d3-f2b0b82cea6e
+    traits:
+      age:
+        age: 0
+        locked: true
+      speech: chat
+      type: VILLAGER
+      location:
+        headYaw: -96.782005
+        world: world
+        x: '-2565.5766'
+        y: '79.0'
+        z: '-1158.3409'
+        yaw: '-96.782'
+        pitch: '0.0'
+      profession: LIBRARIAN
+      spawned: true
+      text:
+        delay: -1
+        talk-close: true
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Hi, Welcome to Mall-Mart!
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: lookclose,owner,mounttrait,age,speech,location,text,type,profession,equipment,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '17':
+    metadata:
+      protected: true
+    name: Spawn Guard
+    uuid: 7296c78c-d7a5-4c11-a453-bf8515a03157
+    traits:
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      sentinel:
+        stats_ticksSpawned: 36806072
+        stats_timesSpawned: 34
+        stats_arrowsFired: 1305
+        stats_potionsThrow: 0
+        stats_fireballsFired: 0
+        stats_snowballsThrown: 0
+        stats_eggsThrown: 0
+        stats_skullsThrown: 0
+        stats_pearlsUsed: 0
+        stats_punches: 0
+        stats_attackAttempts: 3334
+        stats_damageTaken: 0.0
+        stats_damageGiven: 74811.57928109169
+        avoidRange: 10.0
+        range: 40.0
+        damage: 100.0
+        armor: 1.0
+        health: 20.0
+        ranged_chase: false
+        close_chase: true
+        invincible: true
+        fightback: true
+        runaway: false
+        attackRate: 30
+        attackRateRanged: 30
+        healRate: 100
+        guardingUpper: 0
+        guardingLower: 0
+        guardedNPC: -1
+        needsAmmo: false
+        safeShot: true
+        respawnTime: 100
+        chaseRange: 100.0
+        enemyDrops: false
+        enemyTargetTime: 0
+        speed: 1.0
+        warning_text: ''
+        greeting_text: ''
+        greet_range: 10.0
+        greet_rate: 100
+        autoswitch: false
+        accuracy: 0.0
+        realistic: false
+        reach: 3.0
+        guard_distance_minimum: 7.0
+        guard_selection_range: 4.0
+        allTargets:
+          targets:
+            '0': MONSTER
+        allIgnores:
+          targets:
+            '0': OWNER
+      spawned: true
+      equipment:
+        hand:
+          type_namespace: minecraft
+          type_key: bow
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type_namespace: minecraft
+          type_key: iron_helmet
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type_namespace: minecraft
+          type_key: iron_chestplate
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type_namespace: minecraft
+          type_key: iron_leggings
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type_namespace: minecraft
+          type_key: iron_boots
+          amount: 1
+          durability: 0
+          mdata: 0
+      gravity:
+        enabled: false
+      type: PLAYER
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '-2565.0'
+                y: '79.0'
+                z: '-1026.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '-2565.0'
+                y: '79.0'
+                z: '-1034.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '-2565.0'
+                y: '79.0'
+                z: '-1043.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: world
+                x: '-2565.0'
+                y: '79.0'
+                z: '-1017.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        headYaw: 0.057052612
+        world: world
+        x: '-2564.4992'
+        y: '80.0'
+        z: '-1038.3355'
+        yaw: '0.0571'
+        pitch: '0.0'
+      inventory:
+        '0':
+          type_namespace: minecraft
+          type_key: bow
+          amount: 1
+          durability: 0
+          mdata: 0
+        '36':
+          type_namespace: minecraft
+          type_key: iron_boots
+          amount: 1
+          durability: 0
+          mdata: 0
+        '37':
+          type_namespace: minecraft
+          type_key: iron_leggings
+          amount: 1
+          durability: 0
+          mdata: 0
+        '38':
+          type_namespace: minecraft
+          type_key: iron_chestplate
+          amount: 1
+          durability: 0
+          mdata: 0
+        '39':
+          type_namespace: minecraft
+          type_key: iron_helmet
+          amount: 1
+          durability: 0
+          mdata: 0
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: lookclose,owner,mounttrait,location,type,waypoints,scoreboardtrait,inventory,gravity,equipment,sentinel,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '16':
+    metadata:
+      protected: true
+    name: Spawn Guard
+    uuid: 8772fec1-d998-4d35-a687-04a43dd21460
+    traits:
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      sentinel:
+        stats_ticksSpawned: 36813148
+        stats_timesSpawned: 34
+        stats_arrowsFired: 1068
+        stats_potionsThrow: 0
+        stats_fireballsFired: 0
+        stats_snowballsThrown: 0
+        stats_eggsThrown: 0
+        stats_skullsThrown: 0
+        stats_pearlsUsed: 0
+        stats_punches: 0
+        stats_attackAttempts: 2761
+        stats_damageTaken: 0.0
+        stats_damageGiven: 53612.61936883133
+        avoidRange: 10.0
+        range: 40.0
+        damage: 100.0
+        armor: 1.0
+        health: 20.0
+        ranged_chase: false
+        close_chase: true
+        invincible: true
+        fightback: true
+        runaway: false
+        attackRate: 20
+        attackRateRanged: 30
+        healRate: 100
+        guardingUpper: 0
+        guardingLower: 0
+        guardedNPC: -1
+        needsAmmo: false
+        safeShot: true
+        respawnTime: 100
+        chaseRange: 100.0
+        enemyDrops: false
+        enemyTargetTime: 0
+        speed: 1.0
+        warning_text: No PVP!
+        greeting_text: ''
+        greet_range: 10.0
+        greet_rate: 100
+        autoswitch: false
+        accuracy: 0.0
+        realistic: false
+        reach: 3.0
+        guard_distance_minimum: 7.0
+        guard_selection_range: 4.0
+        allTargets:
+          targets:
+            '0': MONSTER
+          byEvent:
+            '0': pvp
+        allIgnores:
+          targets:
+            '0': OWNER
+      spawned: true
+      equipment:
+        hand:
+          type_namespace: minecraft
+          type_key: bow
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type_namespace: minecraft
+          type_key: iron_helmet
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type_namespace: minecraft
+          type_key: iron_chestplate
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type_namespace: minecraft
+          type_key: iron_leggings
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type_namespace: minecraft
+          type_key: iron_boots
+          amount: 1
+          durability: 0
+          mdata: 0
+      gravity:
+        enabled: false
+      type: PLAYER
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '-2563.0'
+                y: '78.0'
+                z: '-1140.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '-2563.0'
+                y: '78.0'
+                z: '-1149.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '-2563.0'
+                y: '78.0'
+                z: '-1158.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: world
+                x: '-2565.0'
+                y: '78.0'
+                z: '-1154.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '4':
+              location:
+                world: world
+                x: '-2563.0'
+                y: '78.0'
+                z: '-1133.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        headYaw: -179.9988
+        world: world
+        x: '-2562.5'
+        y: '79.0'
+        z: '-1154.3189'
+        yaw: '-179.9988'
+        pitch: '0.0'
+      inventory:
+        '0':
+          type_namespace: minecraft
+          type_key: bow
+          amount: 1
+          durability: 0
+          mdata: 0
+        '36':
+          type_namespace: minecraft
+          type_key: iron_boots
+          amount: 1
+          durability: 0
+          mdata: 0
+        '37':
+          type_namespace: minecraft
+          type_key: iron_leggings
+          amount: 1
+          durability: 0
+          mdata: 0
+        '38':
+          type_namespace: minecraft
+          type_key: iron_chestplate
+          amount: 1
+          durability: 0
+          mdata: 0
+        '39':
+          type_namespace: minecraft
+          type_key: iron_helmet
+          amount: 1
+          durability: 0
+          mdata: 0
+      speech: chat
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: owner,mounttrait,type,waypoints,gravity,spawned,sentinel,lookclose,speech,location,scoreboardtrait,inventory,equipment
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '18':
+    metadata:
+      protected: true
+    name: Spawn Guard
+    uuid: d55e7011-f4f3-4b9e-be05-038e9da8bbcf
+    traits:
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      sentinel:
+        stats_ticksSpawned: 36800905
+        stats_timesSpawned: 34
+        stats_arrowsFired: 715
+        stats_potionsThrow: 0
+        stats_fireballsFired: 0
+        stats_snowballsThrown: 0
+        stats_eggsThrown: 0
+        stats_skullsThrown: 0
+        stats_pearlsUsed: 0
+        stats_punches: 12
+        stats_attackAttempts: 2399
+        stats_damageTaken: 0.0
+        stats_damageGiven: 32019.455981334057
+        avoidRange: 10.0
+        range: 40.0
+        damage: 100.0
+        armor: -1.0
+        health: 20.0
+        ranged_chase: false
+        close_chase: true
+        invincible: true
+        fightback: true
+        runaway: false
+        attackRate: 30
+        attackRateRanged: 30
+        healRate: 100
+        guardingUpper: 0
+        guardingLower: 0
+        guardedNPC: -1
+        needsAmmo: false
+        safeShot: true
+        respawnTime: 100
+        chaseRange: 100.0
+        enemyDrops: false
+        enemyTargetTime: 0
+        speed: 1.0
+        warning_text: ''
+        greeting_text: ''
+        greet_range: 10.0
+        greet_rate: 100
+        autoswitch: false
+        accuracy: 0.0
+        realistic: false
+        reach: 3.0
+        guard_distance_minimum: 7.0
+        guard_selection_range: 4.0
+        allTargets:
+          targets:
+            '0': MONSTER
+        allIgnores:
+          targets:
+            '0': OWNER
+      spawned: true
+      equipment:
+        hand:
+          type_namespace: minecraft
+          type_key: bow
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type_namespace: minecraft
+          type_key: iron_helmet
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type_namespace: minecraft
+          type_key: iron_chestplate
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type_namespace: minecraft
+          type_key: iron_leggings
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type_namespace: minecraft
+          type_key: iron_boots
+          amount: 1
+          durability: 0
+          mdata: 0
+      gravity:
+        enabled: false
+      type: PLAYER
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: world
+                x: '-2608.0'
+                y: '77.0'
+                z: '-1088.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: world
+                x: '-2608.0'
+                y: '77.0'
+                z: '-1082.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: world
+                x: '-2608.0'
+                y: '77.0'
+                z: '-1077.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: world
+                x: '-2608.0'
+                y: '77.0'
+                z: '-1092.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      location:
+        headYaw: -179.69304
+        world: world
+        x: '-2607.5024'
+        y: '78.0'
+        z: '-1080.0513'
+        yaw: '-179.693'
+        pitch: '0.0'
+      inventory:
+        '0':
+          type_namespace: minecraft
+          type_key: bow
+          amount: 1
+          durability: 0
+          mdata: 0
+        '36':
+          type_namespace: minecraft
+          type_key: iron_boots
+          amount: 1
+          durability: 0
+          mdata: 0
+        '37':
+          type_namespace: minecraft
+          type_key: iron_leggings
+          amount: 1
+          durability: 0
+          mdata: 0
+        '38':
+          type_namespace: minecraft
+          type_key: iron_chestplate
+          amount: 1
+          durability: 0
+          mdata: 0
+        '39':
+          type_namespace: minecraft
+          type_key: iron_helmet
+          amount: 1
+          durability: 0
+          mdata: 0
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: owner,lookclose,mounttrait,location,type,waypoints,scoreboardtrait,inventory,gravity,equipment,spawned,sentinel
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '20':
+    metadata:
+      ambient-sound: ''
+      death-sound: ''
+      hurt-sound: ''
+      silent-sounds: true
+    name: AdminShop Attendant
+    uuid: 0880c1f9-6160-43bd-9088-c3935a32dcbb
+    traits:
+      gravity:
+        enabled: false
+      spawned: true
+      type: VILLAGER
+      location:
+        headYaw: 17.813568
+        world: world
+        x: '-2563.112'
+        y: '72.0'
+        z: '-1106.896'
+        yaw: '17.8136'
+        pitch: '0.0'
+      text:
+        delay: -1
+        talk-close: true
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Welcome to the Admin Shop!
+          '1': Don't forget to check out the Auction House or Mall-Mart
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      speech: chat
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: lookclose,owner,mounttrait,speech,location,text,type,scoreboardtrait,inventory,equipment,gravity,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '19':
+    metadata:
+      ambient-sound: ''
+      death-sound: ''
+      hurt-sound: ''
+      silent-sounds: true
+    name: AdminShop Attendant
+    uuid: 4aaa73b1-067d-4983-9926-5e81fd08e75b
+    traits:
+      gravity:
+        enabled: false
+      spawned: true
+      type: VILLAGER
+      location:
+        headYaw: 213.15996
+        world: world
+        x: '-2567.1137'
+        y: '72.0'
+        z: '-1066.1448'
+        yaw: '213.16'
+        pitch: '0.0'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      text:
+        delay: -1
+        talk-close: true
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Welcome to the Admin Shop!
+          '1': Don't forget to check out the Auction House or Mall-Mart
+      speech: chat
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: lookclose,owner,mounttrait,speech,location,text,type,scoreboardtrait,inventory,equipment,gravity,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '28':
+    metadata:
+      protected: true
+    name: Train Guard
+    uuid: c7f2c6f4-db6d-4fda-b99e-c8e2540a6320
+    traits:
+      inventory:
+        '0':
+          type_namespace: minecraft
+          type_key: crossbow
+          amount: 1
+          durability: 0
+          mdata: 0
+        '36':
+          type_namespace: minecraft
+          type_key: iron_boots
+          amount: 1
+          durability: 0
+          mdata: 0
+        '37':
+          type_namespace: minecraft
+          type_key: iron_leggings
+          amount: 1
+          durability: 0
+          mdata: 0
+        '38':
+          type_namespace: minecraft
+          type_key: iron_chestplate
+          amount: 1
+          durability: 0
+          mdata: 0
+        '39':
+          type_namespace: minecraft
+          type_key: iron_helmet
+          amount: 1
+          durability: 0
+          mdata: 0
+      equipment:
+        hand:
+          type_namespace: minecraft
+          type_key: crossbow
+          amount: 1
+          durability: 0
+          mdata: 0
+        helmet:
+          type_namespace: minecraft
+          type_key: iron_helmet
+          amount: 1
+          durability: 0
+          mdata: 0
+        chestplate:
+          type_namespace: minecraft
+          type_key: iron_chestplate
+          amount: 1
+          durability: 0
+          mdata: 0
+        leggings:
+          type_namespace: minecraft
+          type_key: iron_leggings
+          amount: 1
+          durability: 0
+          mdata: 0
+        boots:
+          type_namespace: minecraft
+          type_key: iron_boots
+          amount: 1
+          durability: 0
+          mdata: 0
+      type: PLAYER
+      gravity:
+        enabled: false
+      sentinel:
+        stats_ticksSpawned: 1001319
+        stats_timesSpawned: 213
+        stats_arrowsFired: 1810
+        stats_potionsThrow: 0
+        stats_fireballsFired: 0
+        stats_snowballsThrown: 0
+        stats_eggsThrown: 0
+        stats_skullsThrown: 0
+        stats_pearlsUsed: 0
+        stats_punches: 0
+        stats_attackAttempts: 5395
+        stats_damageTaken: 0.0
+        stats_damageGiven: 79605.59988021849
+        avoidRange: 10.0
+        range: 40.0
+        damage: 1000.0
+        armor: -1.0
+        health: 20.0
+        ranged_chase: false
+        close_chase: true
+        invincible: true
+        fightback: true
+        runaway: false
+        attackRate: 30
+        attackRateRanged: 30
+        healRate: 100
+        guardingUpper: 0
+        guardingLower: 0
+        guardedNPC: -1
+        needsAmmo: false
+        safeShot: true
+        respawnTime: 100
+        chaseRange: 100.0
+        enemyDrops: false
+        enemyTargetTime: 0
+        speed: 1.0
+        warning_text: ''
+        greeting_text: ''
+        greet_range: 10.0
+        greet_rate: 100
+        autoswitch: false
+        accuracy: 0.0
+        realistic: false
+        reach: 3.0
+        guard_distance_minimum: 7.0
+        guard_selection_range: 4.0
+        allTargets:
+          targets:
+            '0': MONSTER
+        allIgnores:
+          targets:
+            '0': OWNER
+      location:
+        headYaw: -160.3235
+        world: world
+        x: '-1509.417'
+        y: '63.0'
+        z: '85.9879'
+        yaw: '-160.3235'
+        pitch: '1.011'
+      spawned: true
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: owner,lookclose,mounttrait,location,type,scoreboardtrait,inventory,gravity,equipment,spawned,sentinel
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '33':
+    metadata:
+      player-skin-textures: ewogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJpZCIgOiAiNDQ1ZmVjNTZkMWUyNDUxMzlkMTcxYzI4NGE5YjI3N2UiLAogICAgICAidHlwZSIgOiAiU0tJTiIsCiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTVlNGM4YWMxMzI0ZTBkYzhlYjMyOTE0ZTFhZWQ1ZWQ4NWRhNDc0YWNjYzA4OWJlYjE3ZDM4MjQ2NjFiYmEzMSIsCiAgICAgICJwcm9maWxlSWQiIDogIjIxZWQ2YmZlY2EzMzRhYWFiNTJkYzYyZTNjNmE1ZTk0IiwKICAgICAgInRleHR1cmVJZCIgOiAiMTVlNGM4YWMxMzI0ZTBkYzhlYjMyOTE0ZTFhZWQ1ZWQ4NWRhNDc0YWNjYzA4OWJlYjE3ZDM4MjQ2NjFiYmEzMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfSwKICAic2tpbiIgOiB7CiAgICAiaWQiIDogIjQ0NWZlYzU2ZDFlMjQ1MTM5ZDE3MWMyODRhOWIyNzdlIiwKICAgICJ0eXBlIiA6ICJTS0lOIiwKICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTVlNGM4YWMxMzI0ZTBkYzhlYjMyOTE0ZTFhZWQ1ZWQ4NWRhNDc0YWNjYzA4OWJlYjE3ZDM4MjQ2NjFiYmEzMSIsCiAgICAicHJvZmlsZUlkIiA6ICIyMWVkNmJmZWNhMzM0YWFhYjUyZGM2MmUzYzZhNWU5NCIsCiAgICAidGV4dHVyZUlkIiA6ICIxNWU0YzhhYzEzMjRlMGRjOGViMzI5MTRlMWFlZDVlZDg1ZGE0NzRhY2NjMDg5YmViMTdkMzgyNDY2MWJiYTMxIiwKICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgIH0KICB9LAogICJjYXBlIiA6IG51bGwKfQ==
+      cached-skin-uuid-name: ego_tistical
+      cached-skin-uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+      player-skin-signature: kHKqTfz8/e8n6ouH9wYzJPdpi089SwCTw/L/ugd7ndMRnRwgroO1OCKKAacKIMo8btb1G5Yq2lPIoTTb+rYHY7Jpq9RbScOeXHFElgdfh0vfBv3qRY2oUK+y87KQR2Qi6MrHWyIYwAb7rJI1K9frRxpSHWTgMUAwz4tLfF0Sr+xHqb3zo1yHXRUOgtYwexav8JHz7XX8jHFSAUjlCRm/ZvNkjsl9WaYQuEDrG3wtRs4qj48a2K7i4QcKScmU4NfmUwixTnKROsUM8MBalPgpi7v4hXzjtBOaNvoAEDxQLC8diEHJMRNr6YJRF91JuuJ3S8S8serXJFc2PNgHym2sGiaENNZjkQsGRDgz9cdTqMani7jrePUVVsNgxvebm7bojL5/LMQ6xNPKw1hh2lhVQvEo9DOV6dsAmTAtLdzpqbf2k/hpVKPHUIoayQ3f6A8VhkCprxTsgIipErDifYJZ0T+ScD+cVhf4iPdAOzcyTT9rbl91mv9EQIdVvlnHOUeNBofLae8Ep0Jqc7gGyj+5oZ3iCYfuGHSZ0OCOh5DyO2zO6ARZG5tw7nmRI8yIFTyZadQev/O5yFasLDhjPChF4rhv8LzfgoA3p/+J/b9puMxZZKJOptcKRT/C6AmPiVKs5cs4HGpd472cMUyAfwgVGyYhWOG0SfgVr2HGG1LU2ZU=
+    name: ego_tistical
+    uuid: 7da0b625-9a2c-4eda-8d18-67acac446b8d
+    traits:
+      type: PLAYER
+      speech: chat
+      spawned: true
+      text:
+        delay: -1
+        talk-close: true
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': Welcome to Ego's Brews and Banners! We have the best of both!
+      location:
+        headYaw: -64.80706
+        world: world
+        x: '-2575.1907'
+        y: '81.0'
+        z: '-1172.6462'
+        yaw: '-64.8071'
+        pitch: '-0.586'
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      gravity:
+        enabled: false
+      owner:
+        owner: Ego_tistical
+        uuid: 21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94
+    traitnames: lookclose,owner,mounttrait,speech,location,text,type,scoreboardtrait,inventory,equipment,gravity,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

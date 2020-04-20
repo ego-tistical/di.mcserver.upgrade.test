@@ -1,0 +1,29 @@
+lastAccountName: Durmaatahn
+timestamps:
+  login: 1579484903088
+  lastteleport: 1579483580379
+  logout: 1579485557405
+ipAddress: 69.250.133.186
+money: '9225.9'
+lastlocation:
+  world: world
+  x: -331.5
+  y: 63.0
+  z: 606.5
+  yaw: -77.885796
+  pitch: 16.64995
+homes:
+  home:
+    world: world
+    x: -331.53442343850196
+    y: 63.0
+    z: 606.2043096685412
+    yaw: -77.885796
+    pitch: 16.64995
+logoutlocation:
+  world: world
+  x: -1557.0198334888844
+  y: 63.0
+  z: -20.777160674988927
+  yaw: 180.28967
+  pitch: 17.400055

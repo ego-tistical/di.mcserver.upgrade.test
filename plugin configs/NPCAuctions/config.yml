@@ -1,0 +1,171 @@
+Auction-RefreshRate-inSeconds: 0.5
+NPCSkin_Username: 'null'
+UseVillager: true
+Items:
+  NoItemSlot:
+    Material: GRAY_STAINED_GLASS_PANE
+    data: 0
+  NextPageIcon:
+    Material: GREEN_WOOL
+    data: 0
+  PrevPageIcon:
+    Material: RED_WOOL
+    data: 0
+  AddAuctionIcon:
+    Material: GREEN_WOOL
+    data: 0
+  CancelAuctionIcon:
+    Material: RED_WOOL
+    data: 0
+  CollectAuctionIcon:
+    Material: GOLD_BLOCK
+    data: 0
+SendMessagesWhenSomeoneBid: true
+BlackListedWorlds: []
+autoUpdate: true
+EnableViewLastBidder: false
+Blacklist:
+- BEDROCK
+NPCS:
+  8b6e8c55-093c-41de-b205-cd3020284897:
+    ==: org.bukkit.Location
+    world: world
+    x: -2563.502898295332
+    y: 82.1
+    z: -996.3213192976445
+    pitch: 41.274906
+    yaw: -359.5465
+  914d8819-2fe7-44e3-a3ac-fcd146b8b865:
+    ==: org.bukkit.Location
+    world: world
+    x: -2563.381780872931
+    y: 82.1
+    z: -995.1180306352461
+    pitch: 1.8316767
+    yaw: -179.68762
+Auctions:
+  15ee6009-11d7-43b8-a5b6-18e2f3a05a5c: {}
+  cc322a82-fd4b-42c7-b1cc-12ec48399deb: {}
+  88f8b755-ea0b-480f-9252-47fdc7b9c9ab: {}
+  21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94: {}
+  aaa7e495-189b-4d2a-83f2-d80bb06fbed3: {}
+  ac273699-e6f5-4849-b031-e59d07d301b0: {}
+  5adef5c4-0b2e-482f-9034-389b4a53aafd: {}
+  463ee23c-dff1-4838-a2ec-b34cada3e851: {}
+88f8b755-ea0b-480f-9252-47fdc7b9c9ab: {}
+cc322a82-fd4b-42c7-b1cc-12ec48399deb:
+  recievedItems:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        PIERCING: 4
+        DURABILITY: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        SILK_TOUCH: 1
+        DAMAGE_UNDEAD: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        PIERCING: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - '§\§<§z§e§.§e§n§c§h§.§4§2§.§1§\§>§§§F§7Pierce '
+      enchants:
+        DIG_SPEED: 4
+        LOOT_BONUS_BLOCKS: 2
+        MENDING: 1
+        DURABILITY: 1
+      repair-cost: 15
+      Damage: 1054
+21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94: {}
+aaa7e495-189b-4d2a-83f2-d80bb06fbed3:
+  recievedItems:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: ENCHANTED_GOLDEN_APPLE
+ac273699-e6f5-4849-b031-e59d07d301b0:
+  recievedItems:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: TIPPED_ARROW
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:slowness
+463ee23c-dff1-4838-a2ec-b34cada3e851: {}
+5adef5c4-0b2e-482f-9034-389b4a53aafd:
+  recievedItems:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - '§\§<§z§e§.§e§n§c§h§.§4§.§1§\§>§§§F§7Bind '
+      Damage: 289
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: IRON_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 46
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      lore:
+      - '§\§<§z§e§.§e§n§c§h§.§4§.§1§\§>§§§F§7Bind '
+      Damage: 289
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: OAK_SIGN
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: IRON_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: DIRT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: GLASS_BOTTLE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: STICK
+    amount: 62
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: DIRT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: BREAD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1976
+    type: WHEAT
+    amount: 12

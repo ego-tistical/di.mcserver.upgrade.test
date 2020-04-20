@@ -1,0 +1,32 @@
+lastAccountName: Hydra423
+timestamps:
+  login: 1585892738718
+  lastteleport: 1585887724748
+  logout: 1585893110710
+ipAddress: 172.58.30.225
+homes:
+  home:
+    world: world
+    x: -1257.7256077657453
+    y: 69.0
+    z: -53.26928144190864
+    yaw: -82.137665
+    pitch: 45.14998
+lastlocation:
+  world: world
+  x: -1191.1098588275208
+  y: 76.0
+  z: -72.30000001192093
+  yaw: -151.05096
+  pitch: 31.199572
+money: '10204.0'
+logoutlocation:
+  world: world
+  x: -1264.699999988079
+  y: 24.0
+  z: -39.30000001192093
+  yaw: -34.97162
+  pitch: 57.14971
+afk: false
+mail:
+- §6[§rEgo_tistical§6] §rCheck signs in your house

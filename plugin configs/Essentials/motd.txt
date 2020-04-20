@@ -1,0 +1,8 @@
+&6Welcome, {PLAYER}&6!
+&6Type &c/help&6 for a list of commands.
+&6New Server Info Thread: &chttps://dmginc.gg/topic/12859-minecraft-server-info-open-to-all/
+&6Type Admin Shop is now Live!!!  Type &c/adminshop&6 to warp.
+&6At Spawn, there is an AuctionHouse and MallMart!!!  Type &c/spawn&6 to warp.
+&bNow we have the Lottery! Type &c/lottery help&b to get commands
+&bBookshelves work as chests now! Try it out!
+&6- World time:&c {WORLDTIME12}

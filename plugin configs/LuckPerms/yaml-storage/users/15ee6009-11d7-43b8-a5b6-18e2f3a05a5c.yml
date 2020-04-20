@@ -1,0 +1,12 @@
+uuid: 15ee6009-11d7-43b8-a5b6-18e2f3a05a5c
+name: andydragonbolt
+primary-group: default
+permissions:
+- ChestShop.admin
+- essentials.sethome.multiple
+- essentials.whitelist
+- minecraft.command.whitelist
+- minecraft.whitelist
+parents:
+- admin
+- default

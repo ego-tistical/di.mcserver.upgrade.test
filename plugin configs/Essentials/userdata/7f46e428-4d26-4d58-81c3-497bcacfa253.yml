@@ -1,0 +1,21 @@
+lastAccountName: BigWoodGetter
+timestamps:
+  login: 1581905106861
+  lastteleport: 1581907455755
+  logout: 1581908636991
+ipAddress: 66.220.89.169
+lastlocation:
+  world: world
+  x: -449.30000001192093
+  y: 55.0
+  z: -55.69969182404666
+  yaw: 276.00543
+  pitch: 82.80034
+logoutlocation:
+  world: world
+  x: -486.50097289270013
+  y: 76.0
+  z: 25.221873800103776
+  yaw: 38.699787
+  pitch: 18.299978
+money: '80.0'

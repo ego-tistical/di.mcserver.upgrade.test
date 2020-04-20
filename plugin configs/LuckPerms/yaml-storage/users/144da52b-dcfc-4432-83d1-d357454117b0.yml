@@ -1,0 +1,8 @@
+uuid: 144da52b-dcfc-4432-83d1-d357454117b0
+name: Monkeymomma
+primary-group: default
+permissions:
+- essentials.sethome.multiple.vip
+parents:
+- default
+- vip

@@ -1,0 +1,32 @@
+lastAccountName: C0n3r
+timestamps:
+  login: 1587163982477
+  lastteleport: 1587169935345
+  logout: 1587171155704
+ipAddress: 69.178.96.248
+lastlocation:
+  world: world
+  x: -2226.5
+  y: 4.0
+  z: 536.5
+  yaw: -182.01106
+  pitch: 4.719859
+money: '76.0'
+logoutlocation:
+  world: world_nether
+  x: -354.3857358530553
+  y: 41.0
+  z: 254.3779948092801
+  yaw: -350.64874
+  pitch: 4.6074696
+homes:
+  home:
+    world: world
+    x: -2225.498765154727
+    y: 6.0
+    z: 527.6582172949073
+    yaw: -180.0602
+    pitch: -37.22905
+afk: false
+jailed: true
+jail: netherjail

@@ -1,0 +1,48 @@
+lastAccountName: andydragonbolt
+timestamps:
+  login: 1587402455366
+  logout: 1587402397978
+  lastteleport: 1587404155112
+  jail: 0
+ipAddress: 99.157.184.73
+logoutlocation:
+  world: world
+  x: -3697.523076029126
+  y: 95.6203835193555
+  z: 1246.2062495746432
+  yaw: -63.06918
+  pitch: 33.113438
+afk: false
+nickname: Riptide
+money: '117913.43'
+socialspy: false
+homes:
+  home:
+    world: world
+    x: -171.94774603585157
+    y: 65.0
+    z: 133.72282931108265
+    yaw: 121.181076
+    pitch: 15.346648
+  factory:
+    world: world
+    x: -183.69864988686774
+    y: 64.0
+    z: 336.76149578708686
+    yaw: 207.40778
+    pitch: 53.738663
+  railroad:
+    world: world
+    x: -1203.8633801100325
+    y: 64.0
+    z: 53.340994023488804
+    yaw: 274.565
+    pitch: 5.5451703
+lastlocation:
+  world: world
+  x: -1182.5
+  y: 64.0
+  z: 54.5
+  yaw: 274.565
+  pitch: 5.5451703
+jailed: false

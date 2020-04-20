@@ -1,0 +1,48 @@
+name: admin
+permissions:
+- essentials.ban.*
+- essentials.time.*
+- essentials.tp.*
+- msp.*
+- worldedit.*
+- bukkit.broadcast.scradmin
+- bukkit.command.plugins
+- bukkit.command.tps
+- claimchunk.admin
+- coreprotect.co
+- coreprotect.help
+- coreprotect.inspect
+- coreprotect.lookup
+- coreprotect.restore
+- coreprotect.rollback
+- coreprotect.status
+- editablesign.admin
+- editablesign.spawn
+- essentials.fly
+- essentials.gamemode
+- essentials.gamemode.creative
+- essentials.gamemode.spectator
+- essentials.gamemode.survival
+- essentials.seen
+- essentials.seen.banreason
+- essentials.seen.extra
+- essentials.seen.ipsearch
+- essentials.time
+- essentials.tp
+- jetshoppers.admin.givecommand
+- jetshoppers.admin.hopperbypass
+- jetshoppers.admin.info
+- luckperms.group.listmembers
+- luckperms.group.permission.info
+- luckperms.user.permission.info
+- minecraft.command.summon
+- minecraft.command.tp
+- minecraft.command.weather
+- npcauctions.openGUIFromCommand:
+    value: false
+- sv.use
+parents:
+- mod
+prefixes:
+- '&6[A] ':
+    priority: 90

@@ -1,0 +1,29 @@
+lastAccountName: coolname_
+timestamps:
+  login: 1583546207995
+  logout: 1583549657169
+  lastteleport: 1583548320333
+ipAddress: 166.170.20.14
+logoutlocation:
+  world: world
+  x: -1223.9492653656605
+  y: 98.0
+  z: -99.9463424204166
+  yaw: 21.744629
+  pitch: 31.772778
+money: '100.0'
+homes:
+  home:
+    world: world
+    x: -1234.0567349858777
+    y: 96.0
+    z: -102.69999998807907
+    yaw: 180.67102
+    pitch: 21.450682
+lastlocation:
+  world: world
+  x: -2559.978639756696
+  y: 72.0
+  z: -1072.999378074584
+  yaw: 39.651855
+  pitch: 20.335964

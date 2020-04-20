@@ -1,0 +1,29 @@
+lastAccountName: Tnitro123
+timestamps:
+  login: 1585787404756
+  lastteleport: 1585791464388
+  logout: 1585792277288
+ipAddress: 141.154.75.190
+lastlocation:
+  world: world
+  x: -2946.5458826134177
+  y: 65.0
+  z: -970.5409156650243
+  yaw: -1.9414984
+  pitch: 19.950092
+money: '100.0'
+homes:
+  home:
+    world: world
+    x: -2861.5845280373446
+    y: 71.0
+    z: -971.3035206798236
+    yaw: -96.72595
+    pitch: 4.650267
+logoutlocation:
+  world: world
+  x: -2852.0831443233437
+  y: 75.0
+  z: -966.2649451006472
+  yaw: -237.66626
+  pitch: 26.69986

@@ -1,0 +1,21 @@
+lastAccountName: Bowran123
+timestamps:
+  login: 1582420834062
+  logout: 1582422202406
+  lastteleport: 1582422155094
+ipAddress: 91.154.116.123
+logoutlocation:
+  world: world
+  x: -2569.5325295103744
+  y: 88.0
+  z: -1005.6246508678587
+  yaw: -293.31384
+  pitch: 2.4081645
+lastlocation:
+  world: world
+  x: -1583.174953098442
+  y: 63.0
+  z: 5.097297133571073
+  yaw: 302.81647
+  pitch: 1.291724
+money: '20.0'

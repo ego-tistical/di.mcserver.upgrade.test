@@ -1,0 +1,22 @@
+lastAccountName: rarevr
+timestamps:
+  login: 1587197671772
+  lastteleport: 1587198479595
+  logout: 1587198925713
+ipAddress: 172.14.97.218
+lastlocation:
+  world: world
+  x: -2538.8591218536867
+  y: 83.0
+  z: -1088.747675447621
+  yaw: 71.70004
+  pitch: -1.6499671
+money: '20.0'
+afk: false
+logoutlocation:
+  world: world
+  x: -2556.4053434281177
+  y: 83.0
+  z: -1061.4855393837518
+  yaw: -240.52643
+  pitch: 17.160673

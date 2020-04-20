@@ -1,0 +1,31 @@
+lastAccountName: PimpHesus
+timestamps:
+  login: 1575701932419
+  logout: 1575701952292
+  jail: 0
+  lastteleport: 1571959287710
+ipAddress: 74.128.67.73
+logoutlocation:
+  world: world
+  x: -118.70000002533197
+  y: 80.0000002
+  z: 198.29999997466803
+  yaw: -65.39139
+  pitch: 14.099697
+money: '2434.0'
+lastlocation:
+  world: world
+  x: -472.0
+  y: 80.0
+  z: -1.0
+  yaw: 286.34982
+  pitch: 8.999991
+jailed: false
+homes:
+  home:
+    world: world
+    x: -115.36547373776162
+    y: 75.0
+    z: 198.3140878200305
+    yaw: 249.92964
+    pitch: 32.24961

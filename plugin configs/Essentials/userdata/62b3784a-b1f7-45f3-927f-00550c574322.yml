@@ -1,0 +1,30 @@
+lastAccountName: DaSchnazzyMan
+timestamps:
+  login: 1587078121266
+  lastteleport: 1586980288157
+  logout: 1587086467301
+ipAddress: 70.178.97.34
+lastlocation:
+  world: world
+  x: -2568.9577325204395
+  y: 72.0
+  z: -1092.2942896208601
+  yaw: -24.244202
+  pitch: -1.0631237
+logoutlocation:
+  world: world
+  x: -879.5201176360507
+  y: 71.875
+  z: 1669.4664231943384
+  yaw: -65.38789
+  pitch: 17.7324
+money: '810.0'
+homes:
+  home:
+    world: world
+    x: -877.3040464299387
+    y: 72.0
+    z: 1668.1893832798928
+    yaw: -245.14412
+    pitch: 29.28335
+afk: false

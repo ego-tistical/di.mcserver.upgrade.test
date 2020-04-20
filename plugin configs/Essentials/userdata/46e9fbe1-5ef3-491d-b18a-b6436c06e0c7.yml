@@ -1,0 +1,33 @@
+lastAccountName: max6680
+timestamps:
+  login: 1585861481968
+  logout: 1585864661889
+  lastteleport: 1585862768167
+  jail: 0
+ipAddress: 73.35.108.151
+money: '106140.0'
+logoutlocation:
+  world: world
+  x: -1582.2234039446794
+  y: 66.0
+  z: 88.6467683229528
+  yaw: -177.01958
+  pitch: 24.600994
+lastlocation:
+  world: world
+  x: 951.0493242210863
+  y: 96.0
+  z: -752.2114286704611
+  yaw: -263.41217
+  pitch: 18.750296
+jailed: false
+homes:
+  home:
+    world: world
+    x: 949.6511274776896
+    y: 96.0
+    z: -741.571129076617
+    yaw: -317.2668
+    pitch: 12.750307
+nickname: Maximoto
+afk: false

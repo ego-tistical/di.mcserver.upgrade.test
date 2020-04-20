@@ -1,0 +1,29 @@
+lastAccountName: craveminecraft
+timestamps:
+  login: 1581905450045
+  lastteleport: 1581909043670
+  logout: 1581910038670
+ipAddress: 100.34.81.235
+money: '12711.0'
+homes:
+  home:
+    world: world
+    x: -524.0669842393656
+    y: 66.0
+    z: 734.1256260197385
+    yaw: 71.94153
+    pitch: 26.551798
+lastlocation:
+  world: world
+  x: -519.1196183720474
+  y: 67.0
+  z: 31.447903430995954
+  yaw: 161.3023
+  pitch: -5.881525
+logoutlocation:
+  world: world
+  x: -521.9250000119209
+  y: 59.0
+  z: 736.4365897810101
+  yaw: 91.082886
+  pitch: -21.391144

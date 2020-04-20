@@ -1,0 +1,30 @@
+lastAccountName: MagmaOD
+timestamps:
+  login: 1587155102824
+  lastteleport: 1587157886494
+  logout: 1587158605703
+ipAddress: 82.14.166.107
+lastlocation:
+  world: world
+  x: -1504.7247455706276
+  y: 63.0
+  z: 87.92717725012433
+  yaw: 105.19525
+  pitch: 15.010794
+money: '2855.01'
+homes:
+  home:
+    world: world
+    x: -1504.7247455706276
+    y: 63.0
+    z: 87.92717725012433
+    yaw: 105.46643
+    pitch: 14.694398
+logoutlocation:
+  world: world
+  x: -299.95613798837326
+  y: 72.0
+  z: 6.976332639183912
+  yaw: 154.57967
+  pitch: 2.7605767
+afk: false

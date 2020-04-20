@@ -1,0 +1,29 @@
+lastAccountName: Warlordsh
+timestamps:
+  login: 1580678760633
+  lastteleport: 1580679989172
+  logout: 1580683641738
+ipAddress: 94.208.235.13
+lastlocation:
+  world: world
+  x: -2063.094412898322
+  y: 80.0
+  z: -782.8716352850025
+  yaw: -64.8219
+  pitch: 18.900259
+money: '200.0'
+homes:
+  home:
+    world: world
+    x: -2050.122233298651
+    y: 77.0
+    z: -794.9063294888921
+    yaw: -98.705734
+    pitch: 10.949843
+logoutlocation:
+  world: world
+  x: 123.08648010344395
+  y: 63.0
+  z: 2523.2962528992784
+  yaw: -232.68501
+  pitch: 21.899523

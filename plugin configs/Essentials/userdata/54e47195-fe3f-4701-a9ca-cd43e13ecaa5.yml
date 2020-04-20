@@ -1,0 +1,29 @@
+lastAccountName: Jockeyjohn
+timestamps:
+  login: 1571950732836
+  lastteleport: 1571958282523
+  logout: 1571958287512
+ipAddress: 66.113.19.26
+lastlocation:
+  world: world
+  x: -392.67724214272886
+  y: 68.0
+  z: 12.300000011920929
+  yaw: -17.48645
+  pitch: -3.4449718
+money: '200.0'
+homes:
+  home:
+    world: world
+    x: -360.12972557320745
+    y: 82.5
+    z: 15.386804402498973
+    yaw: 101.00812
+    pitch: 9.383906
+logoutlocation:
+  world: world
+  x: -358.91738574735245
+  y: 82.5
+  z: 15.51217536018905
+  yaw: -83.61862
+  pitch: 34.411533

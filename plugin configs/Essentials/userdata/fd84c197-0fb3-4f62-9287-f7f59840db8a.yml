@@ -1,0 +1,51 @@
+lastAccountName: Illium03
+timestamps:
+  login: 1587296091286
+  lastteleport: 1587344372852
+  logout: 1587344394664
+ipAddress: 174.50.158.129
+lastlocation:
+  world: world_nether
+  x: 18.875904232074006
+  y: 33.0
+  z: 1199.5887597264787
+  yaw: 111.6178
+  pitch: 13.950939
+money: '7624.00'
+homes:
+  home:
+    world: world
+    x: -2343.962853516725
+    y: 76.0
+    z: -2037.015901920121
+    yaw: -183.69354
+    pitch: 47.09987
+  skele:
+    world: world
+    x: 798.685497327633
+    y: 10.0
+    z: 681.6452179025123
+    yaw: 315.8676
+    pitch: -4.7693353
+  under:
+    world: world
+    x: -2932.4161784277435
+    y: 58.0
+    z: -808.7803135442336
+    yaw: -34.21057
+    pitch: 7.6501455
+  gold:
+    world: world_nether
+    x: 31.659043082394206
+    y: 222.0
+    z: 1167.300000011921
+    yaw: -58.303017
+    pitch: 13.799397
+logoutlocation:
+  world: world
+  x: -2347.509971995536
+  y: 76.0
+  z: -2034.0692733195028
+  yaw: -213.84377
+  pitch: 19.199898
+afk: false

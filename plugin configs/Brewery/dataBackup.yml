@@ -1,0 +1,31 @@
+installTime: 1580347122981
+MCBarrelTime: 115869
+prevSaveSeeds:
+- -1250004924499438440
+brewsCreated:
+- 168
+- 24
+- 144
+- 25
+- 15
+- 1
+- 29
+brewsCreatedH: 1340419281
+BCauldron:
+  43bc26aa-c885-493b-98ea-4e49ddb12cca: {}
+  eb265b7e-3d72-46bb-9e01-da4d0e211444: {}
+  8ffeb8e7-b344-40cf-a35a-53ef502c8b03: {}
+Barrel:
+  43bc26aa-c885-493b-98ea-4e49ddb12cca: {}
+  eb265b7e-3d72-46bb-9e01-da4d0e211444: {}
+  8ffeb8e7-b344-40cf-a35a-53ef502c8b03: {}
+Wakeup:
+  43bc26aa-c885-493b-98ea-4e49ddb12cca:
+    '0': -150.356089223672/63.0/248.0161260768374/14.989479/319.33997
+  eb265b7e-3d72-46bb-9e01-da4d0e211444: {}
+  8ffeb8e7-b344-40cf-a35a-53ef502c8b03: {}
+Worlds:
+  43bc26aa-c885-493b-98ea-4e49ddb12cca: world
+  eb265b7e-3d72-46bb-9e01-da4d0e211444: world_nether
+  8ffeb8e7-b344-40cf-a35a-53ef502c8b03: world_the_end
+Version: '1.1'

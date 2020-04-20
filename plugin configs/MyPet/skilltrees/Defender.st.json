@@ -1,0 +1,91 @@
+{
+  "ID": "Defender",
+  "Order": 6,
+  "Name": "Defender",
+  "MaxLevel": 200,
+  "Description": [
+    ""
+  ],
+  "MobTypes": [
+    "*"
+  ],
+  "Skills": {
+    "Backpack": {
+      "Upgrades": {
+        "2": {
+          "rows": "+1"
+        }
+      }
+    },
+    "Beacon": {
+      "Upgrades": {
+        "200": {
+          "Range": "+20",
+          "Duration": "+30",
+          "Count": "+1",
+          "Buffs": {
+            "Absorption": "+1"
+          }
+        }
+      }
+    },
+    "Behavior": {
+      "Upgrades": {
+        "5": {
+          "Aggro": true,
+          "Duel": true,
+          "Farm": false,
+          "Friend": true,
+          "Raid": false
+        }
+      }
+    },
+    "Heal": {
+      "Upgrades": {
+        "10,20": {
+          "Health": "+1"
+        }
+      }
+    },
+    "Life": {
+      "Upgrades": {
+        "10,100,20,30,40,50,60,70,80,90": {
+          "Health": "+2"
+        },
+        "120,140,150,160,170,180,190,200": {
+          "Health": "+4"
+        }
+      }
+    },
+    "Knockback": {
+      "Upgrades": {
+        "20": {
+          "Chance": "+20"
+        }
+      }
+    },
+    "Shield": {
+      "Upgrades": {
+        "100,20,50": {
+          "Redirect": "+20",
+          "Chance": "+10"
+        }
+      }
+    },
+    "Stomp": {
+      "Upgrades": {
+        "15": {
+          "Damage": "+4",
+          "Chance": "+15"
+        }
+      }
+    },
+    "Damage": {
+      "Upgrades": {
+        "1,10,20,5": {
+          "Damage": "+1.5"
+        }
+      }
+    }
+  }
+}

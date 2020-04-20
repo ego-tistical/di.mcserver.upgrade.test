@@ -1,0 +1,7 @@
+uuid: 46e9fbe1-5ef3-491d-b18a-b6436c06e0c7
+name: max6680
+primary-group: default
+permissions:
+- grapplinghook.craft
+parents:
+- default

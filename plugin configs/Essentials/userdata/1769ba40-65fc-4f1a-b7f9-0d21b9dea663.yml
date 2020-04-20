@@ -1,0 +1,32 @@
+lastAccountName: DoubleBoop
+timestamps:
+  login: 1567390952201
+  jail: 0
+  logout: 1567391477029
+  lastteleport: 1567293307441
+ipAddress: 47.188.160.78
+lastlocation:
+  world: world
+  x: -1996.4535430856993
+  y: 76.0
+  z: -322.04853049389203
+  yaw: -31.491455
+  pitch: 13.080291
+afk: false
+jailed: false
+logoutlocation:
+  world: world
+  x: -1604.5319287205148
+  y: 63.0
+  z: -166.47309804881112
+  yaw: -310.87036
+  pitch: 12.5196295
+money: '279.0'
+homes:
+  home:
+    world: world
+    x: -1610.2469370851393
+    y: 63.0
+    z: -161.35439626773544
+    yaw: -194.62445
+    pitch: 29.935772

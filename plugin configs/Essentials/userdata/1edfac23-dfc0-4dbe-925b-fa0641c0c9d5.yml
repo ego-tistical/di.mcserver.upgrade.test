@@ -1,0 +1,30 @@
+lastAccountName: P1xie_Stick
+timestamps:
+  login: 1585526839878
+  lastteleport: 1585526884706
+  logout: 1585527098676
+ipAddress: 76.31.249.80
+lastlocation:
+  world: world
+  x: -1306.767702994195
+  y: 65.0
+  z: -3788.302535930736
+  yaw: -178.8925
+  pitch: -0.2352419
+money: '220.0'
+logoutlocation:
+  world: world
+  x: -1822.6662353056274
+  y: 82.0
+  z: -3444.105738541799
+  yaw: 168.20728
+  pitch: 42.351784
+afk: false
+homes:
+  home:
+    world: world
+    x: -1825.1072085820379
+    y: 82.0
+    z: -3436.5101442641335
+    yaw: 89.0625
+    pitch: 11.121606

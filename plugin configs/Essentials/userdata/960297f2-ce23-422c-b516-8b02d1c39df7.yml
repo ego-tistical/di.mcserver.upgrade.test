@@ -1,0 +1,29 @@
+lastAccountName: Masonstar1
+timestamps:
+  login: 1582416026727
+  lastteleport: 1582422415343
+  logout: 1582423547606
+ipAddress: 68.198.232.254
+money: '11576.9'
+homes:
+  home:
+    world: world
+    x: -1945.2780245084766
+    y: 72.0
+    z: -765.3844322847939
+    yaw: 75.57074
+    pitch: 19.946486
+lastlocation:
+  world: world
+  x: -2541.857979982645
+  y: 83.0
+  z: -1083.5448927885568
+  yaw: 96.600006
+  pitch: 1.0500079
+logoutlocation:
+  world: world
+  x: -1945.9587761531454
+  y: 72.0
+  z: -765.9901597236426
+  yaw: 60.720745
+  pitch: 8.846505

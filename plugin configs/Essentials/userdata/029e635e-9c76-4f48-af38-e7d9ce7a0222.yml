@@ -1,0 +1,30 @@
+lastAccountName: Genious1414
+timestamps:
+  login: 1585434816290
+  lastteleport: 1585434889945
+  logout: 1585435918230
+ipAddress: 81.201.206.239
+lastlocation:
+  world: world
+  x: -2545.0
+  y: 83.0
+  z: -1085.0
+  yaw: 2.598606
+  pitch: 4.825981
+money: '1091.75'
+homes:
+  home:
+    world: world
+    x: -2216.490490720536
+    y: 26.0
+    z: -522.4790101445128
+    yaw: -188.55324
+    pitch: 14.176501
+afk: false
+logoutlocation:
+  world: world
+  x: -2181.281009196889
+  y: 29.016410107551486
+  z: -2297.300000011921
+  yaw: -175.86047
+  pitch: 51.809437

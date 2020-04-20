@@ -1,0 +1,29 @@
+lastAccountName: Evanglorien
+timestamps:
+  login: 1583197176224
+  lastteleport: 1583203099971
+  logout: 1583203848736
+ipAddress: 162.238.132.188
+lastlocation:
+  world: world
+  x: -1243.699999988079
+  y: 15.0
+  z: 1827.699999988079
+  yaw: -123.97693
+  pitch: 55.1997
+money: '260.0'
+logoutlocation:
+  world: world
+  x: 11.64516351843526
+  y: 93.0
+  z: 586.5342932205423
+  yaw: 254.76453
+  pitch: 4.050492
+homes:
+  home:
+    world: world
+    x: 14.878487238508098
+    y: 93.0
+    z: 585.6385218067676
+    yaw: -186.83559
+    pitch: 63.000435

@@ -1,0 +1,18 @@
+# 
+#  PlayerUUID
+#    hopperconfig,world,xpos,ypos,zpos,worldforchest/hopper,xpos,ypos,zpos,level,itemstransfered,dateplaced,hoppertpenabled,blockeswhitelisted,blocksblacklisted
+Players:
+  874f214c-5d45-42d0-805d-83d4fd78cef2:
+  - III,world_nether,32,221,1169,world_nether,26,221,1167,III,11136,1587252937655,false,null,R09MRF9OVUdHRVR8bnVsbA==:,BLACKLIST,false
+  - II,world_nether,31,221,1169,null,null,null,null,II,4131,1587252540085,false,R09MRF9OVUdHRVR8bnVsbA==:,R09MRF9OVUdHRVR8bnVsbA==:,WHITELIST,false
+  - III,world_nether,30,221,1169,world_nether,26,219,1167,III,1528,1587252889612,false,null,R09MRF9OVUdHRVR8bnVsbA==:,BLACKLIST,false
+  - I,world,-2816,66,3447,world,-2813,65,3447,I,862,1587230110137,false,U0xJTUVfQkFMTHxudWxs:,U0xJTUVfQkFMTHxudWxs:,WHITELIST,false
+  - I,world,-2816,66,3448,world,-2813,65,3448,I,401,1587230053060,false,Q0FDVFVTfG51bGw=:,Q0FDVFVTfG51bGw=:,WHITELIST,false
+  - III,world_nether,32,221,1165,world_nether,26,217,1167,III,530,1587252991962,false,null,R09MRF9OVUdHRVR8bnVsbA==:,BLACKLIST,false
+  - I,world,903,55,-5857,null,null,null,null,I,0,1587062081953,false,null,null,BLACKLIST,true
+  - III,world_nether,31,221,1165,null,null,null,null,III,4483,1587252496848,false,R09MRF9OVUdHRVR8bnVsbA==:,R09MRF9OVUdHRVR8bnVsbA==:,WHITELIST,false
+  - III,world_nether,30,221,1165,world_nether,26,215,1167,III,1849,1587252970859,false,null,R09MRF9OVUdHRVR8bnVsbA==:,BLACKLIST,false
+  15ee6009-11d7-43b8-a5b6-18e2f3a05a5c:
+  - IV,world,-206,65,317,world,-210,65,313,IV,37,1587062046524,true,RU1FUkFMRHxudWxs:,RU1FUkFMRHxudWxs:,WHITELIST,false
+  b563348b-ee2f-4a12-85ed-cf4097875279:
+  - III,world,-2456,10,738,null,null,null,null,III,0,1587282404113,false,null,null,BLACKLIST,false

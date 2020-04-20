@@ -1,0 +1,2114 @@
+[
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.afk true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.sethome true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.home true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.tpa true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.tpaccept true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.tpacancel true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.tpahere true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.tpdeny true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set chestsort.use true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set chestsort.use.inventory true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "create"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "create"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "parent add default"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "parent add mod"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set luckperms.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission set minecraft.command.whitelist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set essentials.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set tim.use true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission set tim.admin true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set tim.atm.use true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission set tim.atm.place true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set tim.reload true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "USER",
+    "acted": "acf90896-d112-4cd8-91e6-460b0cf965e8",
+    "actedName": "Shegotistical",
+    "action": "parent add admin"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.sell true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.sell.hand true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.sell.bulk true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.time true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set backpack.use true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set backpack.size.1 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set backpack.clean true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set infobook.list true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set infobook.get true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission unset backpack.size.1"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set backpack.size.6 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission set essentials. true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission unset essentials."
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission set essentials.whitelist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set cristreecapitator.user true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set guishop.use true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set guishop.slot.1 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set guishop.slot.2 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set guishop.slot.3 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set guishop.slot.4 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set guishop.slot.5 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set guishop.slot.6 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set guishop.slot.7 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set guishop.slot.8 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set guishop.slot.9 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set guishop.sign.use true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set guishop.sign.place true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set guishop.sell true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set bountyhunters.list true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set bountyhunters.add true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set bountyhunters.claim true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set bountyhunters.leaderboard true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set bountyhunters.quote true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set bountyhunters.title true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set globalwarming.score.alerts true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set globalwarming.score true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set globalwarming.score.show true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set globalwarming.score.hide true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set globalwarming.score.top true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set globalwarming.score.book true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "874f214c-5d45-42d0-805d-83d4fd78cef2",
+    "actedName": "Kranky916",
+    "action": "permission set guishop.reload true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "15ee6009-11d7-43b8-a5b6-18e2f3a05a5c",
+    "actedName": "andydragonbolt",
+    "action": "permission set minecraft.whitelist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "15ee6009-11d7-43b8-a5b6-18e2f3a05a5c",
+    "actedName": "andydragonbolt",
+    "action": "permission set essentials.whitelist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "15ee6009-11d7-43b8-a5b6-18e2f3a05a5c",
+    "actedName": "andydragonbolt",
+    "action": "permission set minecraft.command.whitelist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set EconomyShopGUI.bal true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set EconomyShopGUI.shop true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set EconomyShopGUI.pay true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission unset EconomyShopGUI.shop"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set EconomyShopGUI.shop true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portal.egototemple true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portal. true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portal.temple true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portal.templeego true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portal.templeportal1 true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portal.templetoego true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portals.templeportalout1 true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "d34076a8-6e37-49f4-aeeb-77c65267a3d5",
+    "actedName": "Kaylerrrr",
+    "action": "permission set essentials.whitelist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "d34076a8-6e37-49f4-aeeb-77c65267a3d5",
+    "actedName": "Kaylerrrr",
+    "action": "permission set minecraft.command.whitelist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "d34076a8-6e37-49f4-aeeb-77c65267a3d5",
+    "actedName": "Kaylerrrr",
+    "action": "permission set minecraft.whitelist true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portals.cahlletotemple true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portals.TempletoCahlle true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portal.lionjettatotemple true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portal.templetolionjetta true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "USER",
+    "acted": "b0924538-b50c-453c-88f2-866bde6e8e87",
+    "actedName": "LionessMida",
+    "action": "permission set essentials.whitelist true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "USER",
+    "acted": "b0924538-b50c-453c-88f2-866bde6e8e87",
+    "actedName": "LionessMida",
+    "action": "permission set minecraft.command.whitelist true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "USER",
+    "acted": "b0924538-b50c-453c-88f2-866bde6e8e87",
+    "actedName": "LionessMida",
+    "action": "permission set minecraft.whitelist true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "USER",
+    "acted": "118c27b3-b5c9-4b85-af5f-f043fa544ead",
+    "actedName": "JettaSky",
+    "action": "permission set minecraft.whitelist true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "USER",
+    "acted": "118c27b3-b5c9-4b85-af5f-f043fa544ead",
+    "actedName": "JettaSky",
+    "action": "permission set minecraft.command.whitelist true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "USER",
+    "acted": "118c27b3-b5c9-4b85-af5f-f043fa544ead",
+    "actedName": "JettaSky",
+    "action": "permission set essentials.whitelist true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portals.durmhouse true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portals.arena1 true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portals.riptide true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portals.templeriptide true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set Chestshop.shop.create true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set Chestshop.shop.buy true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set Chestshop.shop.sell true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set chestshop.iteminfo true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set ChestShop.shop.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "15ee6009-11d7-43b8-a5b6-18e2f3a05a5c",
+    "actedName": "andydragonbolt",
+    "action": "permission set ChestShop.admin true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set arena.arena.join true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set brewery.user true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set brewery.cmd.info true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "USER",
+    "acted": "acf90896-d112-4cd8-91e6-460b0cf965e8",
+    "actedName": "Shegotistical",
+    "action": "parent remove admin"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set grapplinghook.craft true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "USER",
+    "acted": "46e9fbe1-5ef3-491d-b18a-b6436c06e0c7",
+    "actedName": "max6680",
+    "action": "permission set grapplinghook.craft true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set hat.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "48396b03-bc3e-4725-a8b5-ec44ac693d64",
+    "actedName": "BananaBabe18",
+    "action": "permission set essentials.whitelist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "48396b03-bc3e-4725-a8b5-ec44ac693d64",
+    "actedName": "BananaBabe18",
+    "action": "permission set minecraft.command.whitelist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "48396b03-bc3e-4725-a8b5-ec44ac693d64",
+    "actedName": "BananaBabe18",
+    "action": "permission set minecraft.whitelist true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set arena.duel true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.balancetop true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "874f214c-5d45-42d0-805d-83d4fd78cef2",
+    "actedName": "Kranky916",
+    "action": "permission set essentials.sethome.multiple.vip true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set editablesign.edit true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "15ee6009-11d7-43b8-a5b6-18e2f3a05a5c",
+    "actedName": "andydragonbolt",
+    "action": "permission set essentials.sethome.multiple true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set bukkit.command.version false"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set bukkit.command.plugins false"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.pay true"
+  },
+  {
+    "actor": "15ee6009-11d7-43b8-a5b6-18e2f3a05a5c",
+    "actorName": "andydragonbolt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set warp true"
+  },
+  {
+    "actor": "15ee6009-11d7-43b8-a5b6-18e2f3a05a5c",
+    "actorName": "andydragonbolt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set chestshop true"
+  },
+  {
+    "actor": "15ee6009-11d7-43b8-a5b6-18e2f3a05a5c",
+    "actorName": "andydragonbolt",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.warp.adminshop true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.warps.AdminShop true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.warp true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission unset warp"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission unset essentials.warp.adminshop"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission unset essentials.worth"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission unset EconomyShopGUI.shop"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "vip",
+    "action": "create"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "gatekeeper",
+    "action": "create"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "superadmin",
+    "action": "create"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "superadmin",
+    "action": "parent add admin"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "parent remove default"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "parent add gatekeeper"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "gatekeeper",
+    "action": "parent add default"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "vip",
+    "action": "parent add default"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "vip",
+    "action": "permission set essentials.sethome.multiple.vip true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "gatekeeper",
+    "action": "permission set essentials.whitelist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "gatekeeper",
+    "action": "permission set minecraft.command.whitelist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "gatekeeper",
+    "action": "permission set minecraft.whitelist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "gatekeeper",
+    "action": "permission set minecraft.command.kick true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "vip",
+    "action": "meta addprefix 60 &5[+]"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "874f214c-5d45-42d0-805d-83d4fd78cef2",
+    "actedName": "Kranky916",
+    "action": "parent add vip"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "superadmin",
+    "action": "meta addprefix 100 &4[SA]"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "meta addprefix 90 &6[A]"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "meta addprefix 80 &2[M]"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "gatekeeper",
+    "action": "meta addprefix 70 &1[GK]"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "15ee6009-11d7-43b8-a5b6-18e2f3a05a5c",
+    "actedName": "andydragonbolt",
+    "action": "parent add admin"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission unset luckperms.*"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission unset essentials.whitelist"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission unset minecraft.command.whitelist"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set ChestShop.admin true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "48396b03-bc3e-4725-a8b5-ec44ac693d64",
+    "actedName": "BananaBabe18",
+    "action": "parent add gatekeeper"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "118c27b3-b5c9-4b85-af5f-f043fa544ead",
+    "actedName": "JettaSky",
+    "action": "permission unset essentials.whitelist"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "118c27b3-b5c9-4b85-af5f-f043fa544ead",
+    "actedName": "JettaSky",
+    "action": "permission unset minecraft.command.whitelist"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "118c27b3-b5c9-4b85-af5f-f043fa544ead",
+    "actedName": "JettaSky",
+    "action": "permission unset minecraft.whitelist"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "874f214c-5d45-42d0-805d-83d4fd78cef2",
+    "actedName": "Kranky916",
+    "action": "permission set essentials.whitelist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "874f214c-5d45-42d0-805d-83d4fd78cef2",
+    "actedName": "Kranky916",
+    "action": "permission set minecraft.command.whitelist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "874f214c-5d45-42d0-805d-83d4fd78cef2",
+    "actedName": "Kranky916",
+    "action": "permission set minecraft.whitelist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "fd84c197-0fb3-4f62-9287-f7f59840db8a",
+    "actedName": "Illium03",
+    "action": "parent add vip"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actedName": "Ego_tistical",
+    "action": "parent add superadmin"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "superadmin",
+    "action": "permission set essentials.* true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add worldedit.* true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add luckperms.* true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove worldedit.* true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove luckperms.* true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "superadmin",
+    "action": "webeditor add worldedit.* true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "superadmin",
+    "action": "webeditor add luckperms.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission unset essentials.*"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set bukkit.command.tps true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "b0924538-b50c-453c-88f2-866bde6e8e87",
+    "actedName": "LionessMida",
+    "action": "parent remove default"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "d34076a8-6e37-49f4-aeeb-77c65267a3d5",
+    "actedName": "Kaylerrrr",
+    "action": "parent remove default"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "b0924538-b50c-453c-88f2-866bde6e8e87",
+    "actedName": "LionessMida",
+    "action": "clear"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "d34076a8-6e37-49f4-aeeb-77c65267a3d5",
+    "actedName": "Kaylerrrr",
+    "action": "clear"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set luckperms.group.listmembers true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission set minecraft.command.kick true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission set minecraft.command.ban true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission set minecraft.command.banlist true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission set minecraft.command.pardon true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission set minecraft.command.say true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set minecraft.command.tp true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set minecraft.command.weather true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set bukkit.broadcast.scradmin true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set luckperms.user.permission.info true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set luckperms.group.permission.info true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set editablesign.admin true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set editablesign.colorsign true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set editablesign.spawn true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set sv.use true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set essentials.gamemode.survival true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set essentials.gamemode.spectator true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set sv.see true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.realname true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission set essentials.ban true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission set essentials.kick true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "mod",
+    "action": "permission set essentials.kickall true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "USER",
+    "acted": "8b0c1920-fd4c-4b63-9c2b-460c7721b0a8",
+    "actedName": "markm0591",
+    "action": "parent set gatekeeper"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "gatekeeper",
+    "action": "permission set essentials.kick true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "vip",
+    "action": "permission set essentials.fly true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.afk.auto true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set minecraft.command.summon true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.warps.mallmart true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set mypet.leash.* true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set mypet.command.release true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set mypet.command.name true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set mypet.command.respawn true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set mypet.command.switch true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set mypet.command.store true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set simpleportals.portal.spawntotrainstation1 true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set mypet.petstorage.limit.3 true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set mypet.skilltree.combat true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set mypet.skilltree.utility true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set mypet.skilltree.pvp true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set mypet.skilltree.ride true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set mypet.skilltree.farm true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.admin true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.extended.behavior.* true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.command.name.color true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.extended.control true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.extended.feed true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.command.info true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.extended.ride.fly true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.command.capturehelper true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.extended.equip true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.extended.pickup true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.extended.nametag true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.extended.inventory true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.extended.ride true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove mypet.extended.ride.fly true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set ChatManager.Message true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set chatmanager.lists true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set bukkit.command.plugins true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.extended.behavior.aggressive true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.extended.behavior.friendly true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.extended.behavior.duel true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.extended.behavior.farm true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.extended.behavior.raid true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.admin false"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove mypet.admin true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "superadmin",
+    "action": "permission set mypet.admin true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove mypet.admin false"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add chatmanager.reply true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.delhome true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add mypet.extended.beacon true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.warp.ah true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add npcauctions.openGUIFromCommand false"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add lottery.status true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add lottery.gui true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add npcauctions.openGUIFromCommand false"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add lottery.togglebuymsg true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add lottery.buy true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add lottery.ticketlimit.3 true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add lottery.toggleremindmsg true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add npcauctions.auctionlimit.50 true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add essentials.warp.auctionhouse true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove essentials.warp.ah true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.warp.list true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.warps true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add bountyhunters.redeem-heads true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add lottery.ticketlimit.20 true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove lottery.ticketlimit.3 true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set citizens.npc.talk true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set essentials.seen true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set coreprotect.inspect true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set coreprotect.lookup true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set sv.see false"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set essentials.vanish false"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set ChatManager.Bypass.AntiAdvertising true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set msp.* true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set claimchunk.admin true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set worldedit.* true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set essentials.tp true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set essentials.time true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set essentials.time.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "874f214c-5d45-42d0-805d-83d4fd78cef2",
+    "actedName": "Kranky916",
+    "action": "permission set jetshoppers.admin.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "permission set jetshoppers.default.* true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set jetshoppers.admin.hopperbypass true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set jetshoppers.admin.givecommand true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "permission set jetshoppers.admin.info true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "874f214c-5d45-42d0-805d-83d4fd78cef2",
+    "actedName": "Kranky916",
+    "action": "permission set jetshoppers.admin.hopperbypass true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "874f214c-5d45-42d0-805d-83d4fd78cef2",
+    "actedName": "Kranky916",
+    "action": "permission set jetshoppers.admin.givecommand true"
+  },
+  {
+    "actor": "00000000-0000-0000-0000-000000000000",
+    "actorName": "Console",
+    "type": "USER",
+    "acted": "874f214c-5d45-42d0-805d-83d4fd78cef2",
+    "actedName": "Kranky916",
+    "action": "permission set jetshoppers.admin.info true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "USER",
+    "acted": "144da52b-dcfc-4432-83d1-d357454117b0",
+    "actedName": "Monkeymomma",
+    "action": "parent add vip"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "USER",
+    "acted": "144da52b-dcfc-4432-83d1-d357454117b0",
+    "actedName": "Monkeymomma",
+    "action": "webeditor add essentials.sethome.multiple.vip true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove bukkit.command.plugins false"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "USER",
+    "acted": "874f214c-5d45-42d0-805d-83d4fd78cef2",
+    "actedName": "Kranky916",
+    "action": "webeditor add bukkit.command.plugins true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor add ChestShop.mod true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove ChestShop.admin true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "admin",
+    "action": "webeditor remove ChestShop.mod true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add hopper.place.default true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "USER",
+    "acted": "874f214c-5d45-42d0-805d-83d4fd78cef2",
+    "actedName": "Kranky916",
+    "action": "webeditor add hoppers.admin.bypasslimit true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor add hoppers.place.default true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "GROUP",
+    "actedName": "default",
+    "action": "webeditor remove hopper.place.default true"
+  },
+  {
+    "actor": "21ed6bfe-ca33-4aaa-b52d-c62e3c6a5e94",
+    "actorName": "Ego_tistical",
+    "type": "USER",
+    "acted": "874f214c-5d45-42d0-805d-83d4fd78cef2",
+    "actedName": "Kranky916",
+    "action": "webeditor remove hoppers.admin.bypasslimit true"
+  }
+]

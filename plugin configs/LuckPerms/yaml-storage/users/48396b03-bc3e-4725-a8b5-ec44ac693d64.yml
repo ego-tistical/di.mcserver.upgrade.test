@@ -1,0 +1,10 @@
+uuid: 48396b03-bc3e-4725-a8b5-ec44ac693d64
+name: BananaBabe18
+primary-group: default
+permissions:
+- essentials.whitelist
+- minecraft.command.whitelist
+- minecraft.whitelist
+parents:
+- default
+- gatekeeper

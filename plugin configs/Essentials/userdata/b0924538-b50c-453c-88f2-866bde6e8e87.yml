@@ -1,0 +1,29 @@
+lastAccountName: LionessMida
+timestamps:
+  login: 1571953453903
+  logout: 1571958454703
+  lastteleport: 1571956300165
+ipAddress: 75.161.244.18
+logoutlocation:
+  world: world
+  x: -1025.9852872689894
+  y: 50.0
+  z: 159.88146279244611
+  yaw: 209.21277
+  pitch: 18.583527
+money: '760.0'
+lastlocation:
+  world: world
+  x: -464.21408662855123
+  y: 79.0
+  z: 0.23196368751648244
+  yaw: -157.54036
+  pitch: -2.347863
+homes:
+  home:
+    world: world
+    x: -1155.0723377260415
+    y: 59.0
+    z: 238.95195725509484
+    yaw: 6.9455566
+    pitch: 20.692965

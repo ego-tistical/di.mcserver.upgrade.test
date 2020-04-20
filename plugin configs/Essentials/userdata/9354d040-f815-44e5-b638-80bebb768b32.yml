@@ -1,0 +1,21 @@
+lastAccountName: GreyStriped
+timestamps:
+  login: 1587401622026
+  logout: 1587322403615
+  lastteleport: 1587405933613
+ipAddress: 99.138.34.21
+logoutlocation:
+  world: world
+  x: -3234.2827629955173
+  y: 62.0
+  z: 1079.1561202472155
+  yaw: 133.07153
+  pitch: 8.700825
+money: '177.0'
+lastlocation:
+  world: world
+  x: -2557.3389940690918
+  y: 72.0
+  z: -1091.9607655062225
+  yaw: -292.54346
+  pitch: 11.654523

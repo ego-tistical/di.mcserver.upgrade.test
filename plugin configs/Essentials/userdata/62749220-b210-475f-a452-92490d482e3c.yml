@@ -1,0 +1,30 @@
+lastAccountName: Ryanbw94
+timestamps:
+  login: 1587373929866
+  logout: 1587374595423
+  lastteleport: 1587352635202
+ipAddress: 5.66.133.232
+money: '1553.0'
+logoutlocation:
+  world: world
+  x: -1072.1895802143704
+  y: 6.0
+  z: 39.77465113398227
+  yaw: -124.86572
+  pitch: 14.84981
+lastlocation:
+  world: world
+  x: -691.0529467490082
+  y: 13.0
+  z: -41.75459221729198
+  yaw: -210.99219
+  pitch: 15.899693
+afk: false
+homes:
+  home:
+    world: world
+    x: -1083.0796343397597
+    y: 5.0
+    z: 35.499005170993335
+    yaw: -89.87045
+    pitch: -2.399967

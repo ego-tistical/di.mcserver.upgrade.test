@@ -1,0 +1,44 @@
+lastAccountName: Shegotistical
+timestamps:
+  login: 1587081972496
+  lastteleport: 1587088075382
+  logout: 1587088949700
+ipAddress: 45.36.154.237
+lastlocation:
+  world: world
+  x: -167.81143084631168
+  y: 64.0
+  z: 325.9939628505
+  yaw: 70.50525
+  pitch: 11.3514805
+homes:
+  home:
+    world: world
+    x: -1616.2887854406276
+    y: 63.0
+    z: -29.484309298472283
+    yaw: 186.74353
+    pitch: 32.10008
+  loghouse:
+    world: world
+    x: -1614.420123419333
+    y: 68.0
+    z: -171.47698548615512
+    yaw: 10.046783
+    pitch: 10.650217
+  vacation:
+    world: world
+    x: -1646.1402559264222
+    y: 70.0
+    z: 2.066011211372988
+    yaw: 129.59344
+    pitch: 21.450077
+money: '22127.4'
+logoutlocation:
+  world: world
+  x: -1617.154655424499
+  y: 63.0
+  z: -23.822399711074517
+  yaw: 69.153564
+  pitch: -13.949965
+afk: false

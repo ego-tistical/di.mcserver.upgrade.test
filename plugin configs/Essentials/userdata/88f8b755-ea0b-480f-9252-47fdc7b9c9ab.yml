@@ -1,0 +1,31 @@
+lastAccountName: PSYCHOTIC_NOXXIC
+timestamps:
+  login: 1587406999575
+  lastteleport: 1587096594481
+  logout: 1587137360269
+ipAddress: 47.223.119.147
+lastlocation:
+  world: world
+  x: -950.1602732638241
+  y: 64.0
+  z: -150.9424306593706
+  yaw: 203.69551
+  pitch: -0.26859224
+homes:
+  home:
+    world: world
+    x: -873.5
+    y: 63.0
+    z: 57.5
+    yaw: -129.89133
+    pitch: 25.94909
+money: '23629.20'
+logoutlocation:
+  world: world
+  x: -192.82500000298023
+  y: 64.17499999105931
+  z: 294.2525536701703
+  yaw: -43.382477
+  pitch: 34.276558
+nickname: DeadNoxxic
+afk: false

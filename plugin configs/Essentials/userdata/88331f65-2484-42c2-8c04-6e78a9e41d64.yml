@@ -1,0 +1,29 @@
+lastAccountName: Kmeeve
+timestamps:
+  login: 1584511584191
+  lastteleport: 1584514290705
+  logout: 1584515385708
+ipAddress: 68.146.209.127
+lastlocation:
+  world: world
+  x: -2545.0
+  y: 83.0
+  z: -1085.0
+  yaw: 187.08188
+  pitch: 15.286754
+money: '650.0'
+logoutlocation:
+  world: world
+  x: -1894.0983436120468
+  y: 71.0
+  z: -3531.3292384587826
+  yaw: 5.4028816
+  pitch: 18.329966
+homes:
+  home:
+    world: world
+    x: -1213.6971340193077
+    y: 85.0
+    z: -190.37688677220666
+    yaw: -101.08566
+    pitch: 31.565498

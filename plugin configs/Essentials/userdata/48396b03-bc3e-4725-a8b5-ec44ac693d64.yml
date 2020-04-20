@@ -1,0 +1,33 @@
+lastAccountName: BananaBabe18
+timestamps:
+  login: 1587197276029
+  logout: 1587197294669
+  lastteleport: 1585864672051
+  jail: 0
+ipAddress: 205.185.108.137
+logoutlocation:
+  world: world
+  x: -1516.6298501615788
+  y: 79.0
+  z: 28.274779596731936
+  yaw: -182.50359
+  pitch: 7.2006016
+lastlocation:
+  world: world
+  x: -1585.1001625891142
+  y: 66.0
+  z: 88.86171464660124
+  yaw: 293.29727
+  pitch: 21.450407
+homes:
+  home:
+    world: world
+    x: -1514.2463762482457
+    y: 79.0
+    z: 31.887297305710998
+    yaw: -7.7539673
+    pitch: 6.4504943
+money: '11323.9'
+jailed: false
+nickname: BananaB
+afk: false

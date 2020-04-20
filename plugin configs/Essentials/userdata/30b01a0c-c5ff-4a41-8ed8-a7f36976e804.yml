@@ -1,0 +1,30 @@
+lastAccountName: Absol_Legacy
+timestamps:
+  login: 1576607511396
+  lastteleport: 1576550480078
+  logout: 1576607762097
+ipAddress: 66.209.42.126
+money: '3614.71'
+homes:
+  home:
+    world: world
+    x: -760.1705866667303
+    y: 64.0
+    z: -476.53840426470634
+    yaw: 5.767212
+    pitch: 8.396771
+lastlocation:
+  world: world
+  x: -930.0274237912465
+  y: 15.0
+  z: -486.19835491155857
+  yaw: 13.2387495
+  pitch: 30.900074
+logoutlocation:
+  world: world
+  x: -756.4816992805372
+  y: 64.0
+  z: -468.55898748444724
+  yaw: -58.245056
+  pitch: 21.000233
+afk: false

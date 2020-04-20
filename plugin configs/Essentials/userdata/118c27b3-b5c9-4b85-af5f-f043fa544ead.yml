@@ -1,0 +1,29 @@
+lastAccountName: JettaSky
+timestamps:
+  login: 1571957191428
+  lastteleport: 1571957574806
+  logout: 1571958517700
+ipAddress: 75.161.244.18
+money: '740.0'
+lastlocation:
+  world: world
+  x: -1166.9224768701783
+  y: 72.0
+  z: -15.280776893137123
+  yaw: -256.5022
+  pitch: 13.650184
+logoutlocation:
+  world: world
+  x: -1140.8386646435988
+  y: 59.0
+  z: 238.08041658859008
+  yaw: -3.2387695
+  pitch: 31.799637
+homes:
+  home:
+    world: world
+    x: -1135.5256619940562
+    y: 59.0
+    z: 239.3365936828971
+    yaw: -258.83765
+    pitch: 26.39912

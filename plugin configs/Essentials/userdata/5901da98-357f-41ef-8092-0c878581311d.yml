@@ -1,0 +1,30 @@
+lastAccountName: Rexy_Jr
+timestamps:
+  login: 1586245200574
+  logout: 1586245215058
+  lastteleport: 1586137455519
+ipAddress: 75.156.125.121
+homes:
+  home:
+    world: world
+    x: 3593.504340837799
+    y: 66.0
+    z: 2780.7090576852497
+    yaw: 233.97125
+    pitch: 18.714348
+money: '510.0'
+logoutlocation:
+  world: world
+  x: 3596.497822913993
+  y: 66.5
+  z: 2777.5987265788494
+  yaw: 212.51042
+  pitch: 18.441936
+lastlocation:
+  world: world
+  x: 3617.528996190115
+  y: 66.0
+  z: 2792.2295198889706
+  yaw: -166.94336
+  pitch: 28.077816
+afk: false

@@ -1,0 +1,24 @@
+# If this option is enabled, the plugin will notify via console about any new updates.
+# (Note: The plugin will still check for updates on plugin enable regardless)
+update-checker: false
+general-task-duration: 3600
+reload-plugin-timer: true
+keep-teleport-head-axis: true
+bypass-portal-permissions: true
+vehicle-teleportation: true
+creature-spawning-blacklist:
+- PUFFERFISH
+- TROPICAL_FISH
+- DOLPHIN
+use-portal-cooldown: true
+portal-cooldown-duration: 5
+throw-velocity: 1.35
+teleport-sound: ENTITY_GHAST_SHOOT
+teleport-visual-effect: CLOUD
+selection-visual-effect: REDSTONE
+selection-visual-duration: 10
+region-visual-effect: REDSTONE
+region-visual-duration: 20
+block-creative-portal-entrance: false
+join-protection: true
+join-protection-cooldown: 5

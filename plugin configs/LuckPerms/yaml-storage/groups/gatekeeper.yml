@@ -1,0 +1,12 @@
+name: gatekeeper
+permissions:
+- essentials.kick
+- essentials.whitelist
+- minecraft.command.kick
+- minecraft.command.whitelist
+- minecraft.whitelist
+parents:
+- default
+prefixes:
+- '&3[GK] ':
+    priority: 70

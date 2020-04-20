@@ -1,0 +1,29 @@
+lastAccountName: kiwi8
+timestamps:
+  login: 1584039865238
+  lastteleport: 1583748195393
+  logout: 1584039928598
+ipAddress: 82.161.211.51
+lastlocation:
+  world: world_the_end
+  x: 279.17351600684526
+  y: 1.0
+  z: -13.775567772551746
+  yaw: -226.4953
+  pitch: 23.696411
+logoutlocation:
+  world: world
+  x: -2687.287078134327
+  y: 58.46627739807078
+  z: 629.9059839170645
+  yaw: -43.334045
+  pitch: 56.39832
+money: '408.5'
+homes:
+  home:
+    world: world_the_end
+    x: 279.12758946438515
+    y: 1.0
+    z: -13.58097129341689
+    yaw: -273.10547
+    pitch: 22.196953

@@ -1,0 +1,16 @@
+uuid: 874f214c-5d45-42d0-805d-83d4fd78cef2
+name: Kranky916
+primary-group: default
+permissions:
+- jetshoppers.admin.*
+- bukkit.command.plugins
+- essentials.sethome.multiple.vip
+- essentials.whitelist
+- jetshoppers.admin.givecommand
+- jetshoppers.admin.hopperbypass
+- jetshoppers.admin.info
+- minecraft.command.whitelist
+- minecraft.whitelist
+parents:
+- default
+- vip

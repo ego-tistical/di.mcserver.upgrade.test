@@ -1,0 +1,30 @@
+lastAccountName: cbdread122
+timestamps:
+  login: 1585527020143
+  lastteleport: 1585533467957
+  logout: 1585533797825
+ipAddress: 96.59.93.107
+lastlocation:
+  world: world
+  x: -1168.0096537186707
+  y: 72.0
+  z: -335.7290199939922
+  yaw: -9.161133
+  pitch: 10.950305
+money: '4895.52999999999994'
+homes:
+  home:
+    world: world
+    x: -1167.5
+    y: 72.0
+    z: -337.5
+    yaw: -79.81391
+    pitch: 13.050061
+logoutlocation:
+  world: world
+  x: -2554.7775036438074
+  y: 81.0
+  z: -1203.1361845515344
+  yaw: -293.86957
+  pitch: 6.153096
+afk: false

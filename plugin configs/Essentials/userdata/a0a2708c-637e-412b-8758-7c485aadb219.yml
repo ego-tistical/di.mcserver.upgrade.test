@@ -1,0 +1,31 @@
+lastAccountName: Deckman716
+timestamps:
+  login: 1583891333965
+  lastteleport: 1583888958255
+  logout: 1583891741044
+ipAddress: 74.101.40.165
+lastlocation:
+  world: world_nether
+  x: 2439.8093053996377
+  y: 60.0
+  z: 61.40472836116919
+  yaw: -84.10077
+  pitch: 15.300646
+logoutlocation:
+  world: world
+  x: -1834.0512905196608
+  y: 73.0
+  z: 322.2112998191796
+  yaw: -265.09155
+  pitch: 15.449701
+money: '947.5'
+homes:
+  home:
+    world: world
+    x: -1816.5704146617018
+    y: 63.0
+    z: 320.9687334752547
+    yaw: -192.1991
+    pitch: 18.749554
+afk: false
+nickname: decker

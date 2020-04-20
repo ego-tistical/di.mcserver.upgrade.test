@@ -1,0 +1,29 @@
+lastAccountName: Anakin390
+timestamps:
+  login: 1578251091794
+  lastteleport: 1578253797316
+  logout: 1578254226213
+ipAddress: 80.107.84.214
+lastlocation:
+  world: world
+  x: -1388.2313249643307
+  y: 69.0
+  z: -82.25320024078496
+  yaw: 118.48444
+  pitch: 78.4455
+homes:
+  home:
+    world: world
+    x: 855.6930036401874
+    y: 79.0
+    z: -326.9449914138811
+    yaw: -95.26172
+    pitch: 42.802425
+money: '40.0'
+logoutlocation:
+  world: world
+  x: -1531.658078834327
+  y: 63.0
+  z: -12.032344027920844
+  yaw: 270.51993
+  pitch: -6.583449

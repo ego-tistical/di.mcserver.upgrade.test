@@ -1,0 +1,32 @@
+lastAccountName: DonutKnightDI
+timestamps:
+  login: 1587088203691
+  lastteleport: 1587088712432
+  logout: 1587088898348
+  jail: 0
+ipAddress: 37.47.226.153
+lastlocation:
+  world: world
+  x: -205.5
+  y: 65.0
+  z: 323.5
+  yaw: 0.0
+  pitch: 0.0
+money: '594.90'
+logoutlocation:
+  world: world
+  x: -154.21185391277794
+  y: 64.0
+  z: 332.3708972884013
+  yaw: -138.34218
+  pitch: 5.099511
+homes:
+  home:
+    world: world
+    x: -1165.137861533351
+    y: 67.0
+    z: 57.34035066373135
+    yaw: 134.03973
+    pitch: 5.805799
+afk: false
+jailed: false

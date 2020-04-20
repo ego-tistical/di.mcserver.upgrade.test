@@ -1,0 +1,21 @@
+lastAccountName: SilentSnicker
+timestamps:
+  login: 1582749025763
+  lastteleport: 1582749532616
+  logout: 1582751928030
+ipAddress: 75.182.115.68
+lastlocation:
+  world: world
+  x: -2545.0
+  y: 83.0
+  z: -1085.0
+  yaw: 0.53383136
+  pitch: -0.20018676
+money: '60.0'
+logoutlocation:
+  world: world
+  x: -3142.700000025332
+  y: 63.0000002
+  z: -1432.700000025332
+  yaw: 88.80449
+  pitch: 1.1343933

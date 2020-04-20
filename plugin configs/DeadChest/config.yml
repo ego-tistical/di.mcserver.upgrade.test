@@ -1,0 +1,23 @@
+# ****************************** DeadChest Configuration File ******************************
+# OnlyOwnerCanOpenDeadChest :
+#    true  : everybody can open dead chest of everybody
+#    false : only the owner of the inventory can open the dead chest or a player 
+#    with deadchest.chestPass permission
+# *
+# DeadChestDuration : Number of seconds before a dead chest disappears
+# *
+# IndestuctibleChest :
+#    true  : Nothing can destroy a dead chest until a player get back inventory
+#            or DeadChestDuration is over.
+#    false : Dead chest can be destroyable by player or explosion
+# *
+# maxDeadChestPerPlayer : Maximum number of deadchest per player
+# *
+# PLEASE RELOAD OR RESTART SERVER AFTER A CHANGE IN THIS FILE. YOU CAN USE /dc reload
+# **********************************************************************************
+
+OnlyOwnerCanOpenDeadChest: true
+DeadChestDuration: 1200
+IndestuctibleChest: true
+maxDeadChestPerPlayer: 5
+logDeadChestOnConsole: true

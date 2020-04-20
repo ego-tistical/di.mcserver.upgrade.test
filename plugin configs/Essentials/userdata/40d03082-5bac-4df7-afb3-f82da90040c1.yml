@@ -1,0 +1,30 @@
+lastAccountName: Fiore_Cake
+timestamps:
+  login: 1587349856841
+  logout: 1587357531110
+  lastteleport: 1587356196152
+ipAddress: 73.34.47.213
+logoutlocation:
+  world: world
+  x: -1073.1645717960569
+  y: 63.875
+  z: 17.643116820552528
+  yaw: -207.98267
+  pitch: 21.432325
+lastlocation:
+  world: world
+  x: -1089.3966444557864
+  y: 71.9375
+  z: -23.530474331502443
+  yaw: 359.91858
+  pitch: 43.503017
+money: '411.0'
+afk: false
+homes:
+  home:
+    world: world
+    x: -1080.2450986626088
+    y: 6.0
+    z: 37.83623396277755
+    yaw: 182.45728
+    pitch: 43.50304

@@ -1,0 +1,29 @@
+lastAccountName: Pigmaster37
+timestamps:
+  login: 1581895810079
+  lastteleport: 1581823075236
+  logout: 1581896022874
+ipAddress: 96.239.105.175
+lastlocation:
+  world: world
+  x: -1504.8317554042465
+  y: 71.0
+  z: 30.64641992656669
+  yaw: -3.413126
+  pitch: 17.849998
+money: '1116.0'
+logoutlocation:
+  world: world
+  x: 2392.5358389974003
+  y: 67.9375
+  z: -1617.1674060054456
+  yaw: 46.38379
+  pitch: 28.499645
+homes:
+  home:
+    world: world
+    x: 2383.1390799210017
+    y: 74.0
+    z: -1622.7741168290245
+    yaw: 43.322063
+    pitch: 42.00016

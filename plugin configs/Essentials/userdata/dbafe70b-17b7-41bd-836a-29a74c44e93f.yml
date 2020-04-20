@@ -1,0 +1,29 @@
+lastAccountName: BlainedZA
+timestamps:
+  login: 1583154942457
+  lastteleport: 1582986320320
+  logout: 1583156807076
+ipAddress: 197.87.186.18
+money: '1250.0'
+lastlocation:
+  world: world
+  x: -1208.749074426556
+  y: 72.0
+  z: -179.5183874412211
+  yaw: 49.320065
+  pitch: -7.16211
+logoutlocation:
+  world: world
+  x: -898.3000000119209
+  y: 25.0
+  z: 219.30000001192093
+  yaw: 51.828686
+  pitch: -9.938724
+homes:
+  home:
+    world: world
+    x: 277.20041217781136
+    y: 70.0
+    z: -14.59593942748025
+    yaw: 59.88153
+    pitch: 23.754784

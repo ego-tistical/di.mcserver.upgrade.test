@@ -1,0 +1,80 @@
+lastAccountName: Ego_tistical
+timestamps:
+  login: 1587390752805
+  logout: 0
+  lastteleport: 1587391878045
+ipAddress: 45.36.154.237
+afk: false
+logoutlocation:
+  world: world
+  x: -1696.557503818879
+  y: 62.13272766296199
+  z: 3.8637768279488647
+  yaw: -164.0387
+  pitch: 0.36215025
+money: '29710.7'
+lastlocation:
+  world: world
+  x: -1277.4440147382277
+  y: 65.61312798177602
+  z: 664.0840271529743
+  yaw: -181.403
+  pitch: 11.684853
+homes:
+  home:
+    world: world
+    x: -1545.659652115544
+    y: 70.0
+    z: -8.439874054754867
+    yaw: 159.75308
+    pitch: 10.200016
+  temple:
+    world: world
+    x: -1498.9698882094733
+    y: 39.0
+    z: 245.82857697891558
+    yaw: -180.14532
+    pitch: 3.6000423
+  endportal:
+    world: world
+    x: -1267.9612867986552
+    y: 24.0
+    z: -692.8401849750015
+    yaw: -1.5595703
+    pitch: 2.400134
+  arena:
+    world: world
+    x: 1351.64657271825
+    y: 66.0
+    z: 2227.529806924689
+    yaw: -0.3416443
+    pitch: 9.149134
+  store:
+    world: world
+    x: -1511.835493662923
+    y: 38.0
+    z: 222.42202181172965
+    yaw: -154.64258
+    pitch: 15.299342
+  spawntemple:
+    world: world
+    x: -2563.5222804158802
+    y: 83.0
+    z: -1084.2204194561969
+    yaw: -252.818
+    pitch: 11.099975
+  enderportal1:
+    world: world
+    x: 103.46969380418886
+    y: 27.0
+    z: 1584.8171481372779
+    yaw: -177.19556
+    pitch: 24.299347
+  netherfortress:
+    world: world_nether
+    x: -345.33722659521214
+    y: 41.0
+    z: 192.23915820777066
+    yaw: -181.98944
+    pitch: 17.191593
+socialspy: true

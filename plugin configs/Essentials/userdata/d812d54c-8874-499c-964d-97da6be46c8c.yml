@@ -1,0 +1,29 @@
+lastAccountName: Yummmy_Swords
+timestamps:
+  login: 1587347622807
+  lastteleport: 1587334631592
+  logout: 1587347639738
+ipAddress: 72.53.199.230
+lastlocation:
+  world: world
+  x: -2531.5
+  y: 83.0000002
+  z: -1086.5
+  yaw: 0.30000004
+  pitch: -0.45000005
+money: '24.0'
+homes:
+  home:
+    world: world
+    x: -2068.0757502658453
+    y: 80.0
+    z: -369.4061346730549
+    yaw: -109.81723
+    pitch: 20.399967
+logoutlocation:
+  world: world
+  x: -2065.699999988079
+  y: 80.0
+  z: -369.41612968839075
+  yaw: -274.07404
+  pitch: 13.050605

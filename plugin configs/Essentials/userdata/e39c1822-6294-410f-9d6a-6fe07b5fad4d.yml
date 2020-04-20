@@ -1,0 +1,29 @@
+lastAccountName: uesrubberkids
+timestamps:
+  login: 1580700446479
+  logout: 1580701521985
+  lastteleport: 1580701441285
+ipAddress: 67.198.15.246
+logoutlocation:
+  world: world
+  x: -1058.763346040392
+  y: 84.0
+  z: 207.40463433433356
+  yaw: 175.02228
+  pitch: -3.2276573
+lastlocation:
+  world: world_nether
+  x: -191.0441393117146
+  y: 32.0
+  z: -5.547767544556817
+  yaw: 98.311035
+  pitch: 16.950495
+money: '400.0'
+homes:
+  home:
+    world: world
+    x: -1059.6842522551954
+    y: 84.0
+    z: 205.74098633655066
+    yaw: 308.30457
+    pitch: 48.57645

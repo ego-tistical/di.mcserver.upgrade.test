@@ -1,0 +1,16 @@
+Options:
+  BookShelfRows: 2
+  UseWhitelist: true
+  Whitelist:
+  - BOOK
+  - WRITABLE_BOOK
+  - WRITTEN_BOOK
+  - ENCHANTED_BOOK
+  - KNOWLEDGE_BOOK
+  Title: Bookshelf
+  NoPermissionToReloadMessage: '&cYou do not have permission use this command!'
+  NoPermissionToUpdateMessage: '&cYou do not have permission use this command!'
+  ParticlesWhenOpened: true
+  EnableHopperSupport: false
+  EnableDropperSupport: false
+  Updater: true

@@ -1,0 +1,22 @@
+lastAccountName: fabrice72
+timestamps:
+  login: 1586981189883
+  lastteleport: 1586985122907
+  logout: 1587024168933
+ipAddress: 100.16.26.151
+lastlocation:
+  world: world
+  x: -2534.0
+  y: 83.0
+  z: -1085.0
+  yaw: 0.0
+  pitch: 0.0
+money: '640.0'
+afk: false
+logoutlocation:
+  world: world
+  x: 2647.601822508492
+  y: 62.875
+  z: 192.5499861721271
+  yaw: -268.42548
+  pitch: 14.547119

@@ -1,0 +1,21 @@
+lastAccountName: RoadieDI
+timestamps:
+  login: 1582938059786
+  lastteleport: 1582939996174
+  logout: 1582940520764
+ipAddress: 24.145.89.45
+lastlocation:
+  world: world
+  x: 300.68786595224594
+  y: 12.0
+  z: 5.439155245551985
+  yaw: 96.03226
+  pitch: 26.250166
+money: '140.0'
+logoutlocation:
+  world: world
+  x: -2100.699999988079
+  y: 69.0
+  z: -1269.5704230522551
+  yaw: 34.334583
+  pitch: 3.299759

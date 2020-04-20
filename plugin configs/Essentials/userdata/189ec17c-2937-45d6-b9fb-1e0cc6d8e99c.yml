@@ -1,0 +1,30 @@
+lastAccountName: JustLeo_Pog
+timestamps:
+  login: 1570586523160
+  logout: 1570586726177
+  lastteleport: 1569591641655
+ipAddress: 172.101.125.158
+lastlocation:
+  world: world
+  x: -158.51881358205102
+  y: 66.0
+  z: 2132.136351768759
+  yaw: 77.43696
+  pitch: 20.391106
+logoutlocation:
+  world: world
+  x: -169.9234477736476
+  y: 68.0
+  z: 2184.6840774046855
+  yaw: 91.5697
+  pitch: 13.633871
+money: '0.0'
+homes:
+  home:
+    world: world
+    x: -171.12561096160448
+    y: 68.0
+    z: 2182.2503865381764
+    yaw: 230.76807
+    pitch: 42.118015
+afk: false

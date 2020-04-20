@@ -1,0 +1,29 @@
+lastAccountName: aClipToDaLip
+timestamps:
+  login: 1587279924780
+  logout: 1587283697955
+  lastteleport: 1587283024640
+ipAddress: 108.173.72.234
+money: '120.0'
+logoutlocation:
+  world: world
+  x: -2454.5220076459714
+  y: 10.875
+  z: 738.4191234295225
+  yaw: -6.6210356
+  pitch: 90.0
+homes:
+  home:
+    world: world
+    x: -2446.599277090476
+    y: 11.0
+    z: 741.952502906721
+    yaw: 166.90088
+    pitch: 13.443629
+lastlocation:
+  world: world
+  x: -2556.524502147328
+  y: 72.0
+  z: -1094.2696897141695
+  yaw: 30.905954
+  pitch: 11.99339

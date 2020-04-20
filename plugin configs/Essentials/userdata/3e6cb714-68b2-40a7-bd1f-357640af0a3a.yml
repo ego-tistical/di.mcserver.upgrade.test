@@ -1,0 +1,29 @@
+lastAccountName: DirtyKirby
+timestamps:
+  login: 1583173626685
+  lastteleport: 1583076826605
+  logout: 1583174718646
+ipAddress: 96.2.143.190
+lastlocation:
+  world: world
+  x: -1521.300000011921
+  y: 77.0
+  z: 25.92500001192093
+  yaw: 36.131744
+  pitch: 12.450145
+money: '180.0'
+homes:
+  home:
+    world: world
+    x: -1362.6045849617492
+    y: 64.0
+    z: 100.58419273280384
+    yaw: 64.292786
+    pitch: 19.949423
+logoutlocation:
+  world: world
+  x: -1351.123155161617
+  y: 59.0
+  z: 99.11896543623335
+  yaw: 285.95776
+  pitch: 15.150184

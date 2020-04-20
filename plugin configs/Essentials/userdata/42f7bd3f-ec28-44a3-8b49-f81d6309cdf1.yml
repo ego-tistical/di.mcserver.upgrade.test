@@ -1,0 +1,29 @@
+lastAccountName: Cahlle
+timestamps:
+  login: 1571710009896
+  lastteleport: 1571688954291
+  logout: 1571711235230
+ipAddress: 24.77.119.140
+money: '0'
+lastlocation:
+  world: world
+  x: -472.0
+  y: 80.0
+  z: -1.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -550.1911642000755
+  y: 63.0
+  z: -793.6155208894274
+  yaw: 64.87581
+  pitch: -15.150379
+homes:
+  home:
+    world: world
+    x: -535.5463805299227
+    y: 63.0
+    z: -827.3715701722525
+    yaw: -171.66125
+    pitch: 20.399635

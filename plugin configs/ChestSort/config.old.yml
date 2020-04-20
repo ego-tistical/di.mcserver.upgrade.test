@@ -1,0 +1,222 @@
+#########################
+#####   ChestSort   #####
+#########################
+#
+#   www.jeff-media.de
+#
+
+#
+# This config file will be updated automatically with every new release of ChestSort.
+# Don't worry! Your changes will be kept after every update.
+#
+
+#
+# Please note that players will need the chestsort.use permission
+# or have to be OP to be able to use automatic chest sorting.
+# To use /invsort, the permission chestsort.use.inventory is required.
+#
+
+# when set to false, new players will have to run /chestsort
+# once to enable automatic chest sorting.
+sorting-enabled-by-default: false
+
+# when set to true, players with sorting DISABLED will be
+# shown a message on how to enable automatic chest sorting
+# when they use a chest for the first time.
+# consider setting this to true when you disable sorting by default.
+# see also -> message-when-using-chest
+show-message-when-using-chest: true
+
+# when set to true, players with sorting ENABLED will be
+# shown a message on how to disable automatic chest sorting
+# when they use a chest for the first time.
+# consider setting this to true when you enable sorting by default.
+# see also -> message-when-using-chest2
+show-message-when-using-chest-and-sorting-is-enabled: false
+
+# when set to true, the messages are shown again when a player
+# logs out and back in and then uses a chest again.
+show-message-again-after-logout: true
+
+# to sort by category, we need category files. ChestSort comes
+# with a number of pregenerated category files, named
+# 900-valuables.txt, 910-tools.txt, 920-combat.txt, ...
+# If you wish to edit those, you can disable the generation of these
+# files, because otherwise all your changes in the pregenerated
+# files will be overwritten on each server startup.
+# However, a much smarter option is to copy the default files
+# and rename them to from 900... to 800... and edit those instead.
+auto-generate-category-files: true
+
+# you can choose when ChestSort should sort chests.
+# The default option is to sort when an inventory is closed.
+# This is useful, because the onInventoryClose event never gets fired
+# when access to the chest is forbidden by another plugin, e.g. WorldGuard
+# You can also sort whenenver a chest is opened. ChestSort will then check
+# if the onInventoryOpenEvent gets cancelled. If it does get cancelled,
+# ChestSort will not sort the chest. However, if a plugin uses the
+# MONITOR event priority, ChestSort cannot detect this.
+# If you have problems with unaccessible chests being sorted, set this
+# option to "close". If you want, you can sort twice, however this is not
+# very useful.
+# If you don't know what to put here, just use the default "close"
+# Available options: open, close, both
+sort-time: close
+
+# should we check for updates?
+# when enabled, a message is printed in the console if a new
+# version has been found, and OPs will be notified when they join the server
+# When set to true, we will check for updates on startup and every 24 hours
+# When set to on-startup, we will only check on startup
+# When set to false, don't check for updates
+check-for-updates: true
+
+# when set to true, show some verbose information on startup
+verbose: true
+
+#########################
+####     hotkeys     ####
+#########################
+
+# Instead of automatic sorting, you can also use hotkeys (see below)
+# when using an inventory to have it sorted immediately.
+# You can disable this by setting this to false.
+allow-hotkeys: true
+
+# You can disable/enable certain hotkeys when you have allow-hotkeys enabled.
+# Hotkeys that could interfere with Minecraft's normal behaviour (e.g.
+# shift+left-click) only work on empty slots, so don't worry about them.
+# Players can also enable/disable all shortcuts individually via /chestsort hotkeys
+hotkeys:
+  # Use middle click (mousewheel) on ANY inventory slot as hotkey
+  middle-click: true
+  # Use shift + left-click on any EMPTY inventory slot as hotkey
+  shift-click: false
+  # Use double left-click on any EMPTY inventory slot as hotkey
+  double-click: false
+  # Use shift + right-click on any EMPTY inventory slot as hotkey
+  shift-right-click: true
+  
+#########################
+#### disabled worlds ####
+#########################
+
+# You can disable ChestSort for certain worlds. Each world's name has to
+# be on a separate line, starting with a hyphen and followed by a space.
+# You can also use the YAML array notation: [world1, world2, world3]
+
+# Example:
+#
+# disabled-worlds:
+# - world_nether
+# - world_the_end
+
+disabled-worlds:
+
+##########################
+#####  Plugin hooks  #####
+##########################
+
+# ChestSort can hook into other plugins to allow better sorting
+# for items belonging to 3rd party plugins.
+# You do NOT have to disable the hooks for plugins you don't have
+# installed. ChestSort will automatically check if the plugins
+# are installed.
+
+##### CrackShot #####
+# When CrackShot is installed, all CrackShot weapons will be
+# grouped together and sorted by their name
+hook-crackshot: true
+# You can define a custom name that will be used as prefix
+# for all CrackShot weapon names.
+# E.g. when you set this to "crackshot_weapon", an AK-47
+# will be called "crackshot_weapon_AK-47"
+hook-crackshot-prefix: crackshot_weapon
+
+##### InventoryPages #####
+# When InventoryPages is installed, ChestSort will not sort
+# the "Next Page" and "Prev Page" buttons. You should not
+# disable this behaviour unless you know what you are doing!
+hook-inventorypages: true
+
+##########################
+##### Sorting Method #####
+##########################
+
+# Advanced: how to sort things! See below for examples.
+# Only change this if you know what you are doing.
+#
+# Available variables:
+# {category}          order stuff by category as defined in plugins/ChestSort/categories/<category>.txt
+# {keepCategoryOrder} orders stuff in the same category according to their line numbers in the category file
+# {itemsFirst}        put items before blocks
+# {blocksFirst}       put blocks before items
+# {name}              returns the name (e.g. DIRT, GRASS_BLOCK, BIRCH_LOG, DIAMOND_SWORD, ...)
+# {color}             returns the color, e.g. light_blue for wool. Empty if block/item is not dyeable
+# {customName}        returns the display name if set (e.g. with an anvil)
+# {lore}              returns the lore if set
+#
+# Warning: You must not use spaces and fields have to be separated by commas.
+#
+# Examples:
+#   sort by name and color:
+#     '{name},{color}'
+#
+#   sort by name and color, but put items before blocks:
+#     '{itemsFirst},{name},{color}'
+#
+#   sort by name and color, but put blocks before items:
+#     '{blocksFirst},{name},{color}'
+#
+#   sort by category, then put items before blocks and sort by name and color
+#      '{category},{itemsFirst},{name},{color}'
+#
+#   sort by category, but keep exactly the same order as defined in each category file, then sort any undefined items by name and color
+#      '{category},{keepCategoryOrder},{name},{color}
+#
+sorting-method: '{category},{itemsFirst},{name},{color}'
+
+#########################
+##### localization ######
+#########################
+
+# Available color codes:
+# &0 Black        &6 Gold       &c Red
+# &1 Dark Blue    &7 Gray       &d Light Purple
+# &2 Dark Green   &8 Dark Gray  &e Yellow
+# &3 Dark Aqua    &9 Blue       &f White
+# &4 Dark Red     &a Green
+# &5 Dark Purple  &b Aqua
+
+# Available formatting codes:
+# &k Obfuscated   &m Strikethrough
+# &l Bold         &o Italic
+# &n Underline    &r Reset
+
+# IMPORTANT NOTE:
+# Some messages contain placeholders (%s). You must not remove those, or you will get exceptions in the console
+
+##### You can edit these messages yourself or uncomment the existing translations (see below)
+message-when-using-chest: "&7Hint: Type &6/chestsort&7 to enable automatic chest sorting."
+message-when-using-chest2: "&7Hint: Type &6/chestsort&7 to disable automatic chest sorting."
+message-sorting-disabled: "&7Automatic chest sorting has been &cdisabled&7."
+message-sorting-enabled: "&7Automatic chest sorting has been &aenabled&7."
+message-player-inventory-sorted: "&7Your inventory has been sorted."
+message-error-players-only: "&cError: This command can only be run by players."
+message-error-invalid-options: "&cError: Unknown option %s. Valid options are %s."
+message-gui-enabled: "&aEnabled"
+message-gui-disabled: "&cDisabled"
+message-gui-middle-click: "Middle-Click"
+message-gui-shift-click: "Shift + Click"
+message-gui-double-click: "Double-Click"
+message-gui-shift-right-click: "Shift + Right-Click"
+
+##### English
+#message-when-using-chest: "&7Hint: Type &6/chestsort&7 to enable automatic chest sorting."
+#message-when-using-chest2: "&7Hint: Type &6/chestsort&7 to disable automatic chest sorting."
+#message-sorting-disabled: "&7Automatic chest sorting has been &cdisabled&7."
+#message-sorting-enabled: "&7Automatic chest sorting has been &aenabled&7."
+#message-player-inventory-sorted: "&7Your inventory has been sorted."
+#message-error-players-only: "&cError: This command can only be run by players."
+#message-error-invalid-options: "&cError: Unknown option %s. Valid options are %s."
+#message-gui-enabled: "&aEn

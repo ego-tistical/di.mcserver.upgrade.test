@@ -1,0 +1,29 @@
+lastAccountName: CindersKnight
+timestamps:
+  login: 1583287385918
+  lastteleport: 1583202719274
+  logout: 1583295079026
+ipAddress: 76.217.237.217
+money: '937.0'
+homes:
+  home:
+    world: world
+    x: -2322.065629427657
+    y: 66.0
+    z: -646.9158622811359
+    yaw: -40.73416
+    pitch: 8.549585
+lastlocation:
+  world: world
+  x: -1496.850687243782
+  y: 64.0
+  z: 46.30000001192093
+  yaw: 5.782257
+  pitch: 55.648872
+logoutlocation:
+  world: world
+  x: -2316.300000011921
+  y: 34.0
+  z: -572.0999221047363
+  yaw: -126.43323
+  pitch: 4.1990576

@@ -1,0 +1,30 @@
+lastAccountName: _spideymann
+timestamps:
+  login: 1586732716434
+  lastteleport: 1585820200601
+  logout: 1586733963100
+ipAddress: 86.30.116.253
+lastlocation:
+  world: world
+  x: -2568.4436245804927
+  y: 72.0
+  z: -1097.106157866905
+  yaw: -276.2694
+  pitch: -3.8891237
+money: '841.75'
+homes:
+  home:
+    world: world
+    x: -3457.1335909614295
+    y: 11.0
+    z: -1661.427857972265
+    yaw: -175.68713
+    pitch: 36.161465
+afk: false
+logoutlocation:
+  world: world
+  x: -3458.4396634887003
+  y: 10.875
+  z: -1654.1915925265303
+  yaw: -141.65723
+  pitch: 16.79544

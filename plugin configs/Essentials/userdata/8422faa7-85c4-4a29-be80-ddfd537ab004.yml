@@ -1,0 +1,21 @@
+lastAccountName: zeroplus
+timestamps:
+  login: 1585436410453
+  logout: 1585436417324
+ipAddress: 91.101.205.46
+money: '80.0'
+afk: false
+lastlocation:
+  world: world
+  x: -2519.9734452905004
+  y: 9.438951698730483
+  z: -1303.3601067138752
+  yaw: -82.72656
+  pitch: 0.45019498
+logoutlocation:
+  world: world
+  x: -2571.312596794399
+  y: 64.875
+  z: -1286.1682000229632
+  yaw: 80.347496
+  pitch: 23.849957

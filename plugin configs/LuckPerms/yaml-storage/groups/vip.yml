@@ -1,0 +1,9 @@
+name: vip
+permissions:
+- essentials.fly
+- essentials.sethome.multiple.vip
+parents:
+- default
+prefixes:
+- '&5[+] ':
+    priority: 60

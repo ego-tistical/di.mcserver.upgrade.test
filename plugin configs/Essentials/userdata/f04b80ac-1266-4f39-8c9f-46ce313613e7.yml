@@ -1,0 +1,30 @@
+lastAccountName: QualityButter
+timestamps:
+  login: 1585598199804
+  lastteleport: 1585599040023
+  logout: 1585599138892
+ipAddress: 47.14.22.87
+afk: false
+lastlocation:
+  world: world
+  x: -2568.3781748042857
+  y: 72.0
+  z: -1090.7040279646703
+  yaw: -353.75238
+  pitch: 13.950048
+money: '603.85'
+logoutlocation:
+  world: world
+  x: -2537.464072581099
+  y: 68.0
+  z: -360.28114475501457
+  yaw: -150.56067
+  pitch: 20.100056
+homes:
+  home:
+    world: world
+    x: -2536.698812583511
+    y: 68.0
+    z: -359.2720287507764
+    yaw: -268.00543
+    pitch: 5.250169

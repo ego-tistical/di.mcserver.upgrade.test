@@ -1,0 +1,21 @@
+lastAccountName: TrieneGaming
+timestamps:
+  login: 1581566259159
+  lastteleport: 1581566345181
+  logout: 1581568115549
+ipAddress: 68.103.44.158
+lastlocation:
+  world: world
+  x: -480.46065172660377
+  y: 96.0
+  z: -38.699999988079064
+  yaw: -259.5103
+  pitch: 39.95615
+money: '40.0'
+logoutlocation:
+  world: world
+  x: -1633.7811727131018
+  y: 64.0
+  z: 6.928864806677275
+  yaw: -90.5896
+  pitch: 35.406567

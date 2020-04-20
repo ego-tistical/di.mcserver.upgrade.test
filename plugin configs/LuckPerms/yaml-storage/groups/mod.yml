@@ -1,0 +1,15 @@
+name: mod
+permissions:
+- essentials.ban
+- essentials.kick
+- essentials.kickall
+- minecraft.command.ban
+- minecraft.command.banlist
+- minecraft.command.kick
+- minecraft.command.pardon
+- minecraft.command.say
+parents:
+- gatekeeper
+prefixes:
+- '&a[M] ':
+    priority: 80

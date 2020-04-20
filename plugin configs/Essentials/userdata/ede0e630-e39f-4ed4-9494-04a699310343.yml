@@ -1,0 +1,21 @@
+lastAccountName: Zairenzu
+timestamps:
+  login: 1584049690282
+  lastteleport: 1584053087141
+  logout: 1584053632404
+ipAddress: 70.80.195.30
+money: '80.0'
+lastlocation:
+  world: world
+  x: -2675.7388623832967
+  y: 63.15043684319631
+  z: -786.4983386173632
+  yaw: -344.76123
+  pitch: 17.25035
+logoutlocation:
+  world: world
+  x: -2769.8214002333943
+  y: 59.0
+  z: -1077.9153036022606
+  yaw: 326.85162
+  pitch: 41.99992

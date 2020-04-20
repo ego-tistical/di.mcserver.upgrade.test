@@ -1,0 +1,30 @@
+lastAccountName: markm0591
+timestamps:
+  login: 1586043488185
+  logout: 1586048558063
+  lastteleport: 1586045011892
+ipAddress: 73.19.200.171
+money: '90438.00'
+homes:
+  home:
+    world: world
+    x: -1526.0804631060287
+    y: 56.0
+    z: 1718.3891079813072
+    yaw: -180.01263
+    pitch: 20.742226
+logoutlocation:
+  world: world
+  x: -1759.9196041024443
+  y: 32.0
+  z: 1285.300000011921
+  yaw: 359.4612
+  pitch: 4.821434
+lastlocation:
+  world: world
+  x: -2559.0699342086887
+  y: 72.0
+  z: -1090.5020222375751
+  yaw: -9.469727
+  pitch: 7.8546324
+afk: false

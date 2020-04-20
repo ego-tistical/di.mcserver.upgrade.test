@@ -1,0 +1,28 @@
+lastAccountName: HaveEyesonme
+timestamps:
+  login: 1569023180581
+  logout: 1569023877060
+  lastteleport: 1566957209421
+ipAddress: 47.32.148.213
+lastlocation:
+  world: world
+  x: -418.5
+  y: 63.0
+  z: 127.5
+  yaw: -162.81055
+  pitch: 20.549866
+logoutlocation:
+  world: world
+  x: -422.99424627513156
+  y: 63.0
+  z: 122.92214612263214
+  yaw: -278.82202
+  pitch: 26.099545
+homes:
+  home:
+    world: world
+    x: -418.9622311947361
+    y: 63.0
+    z: 127.25796173991003
+    yaw: -162.81055
+    pitch: 20.549866

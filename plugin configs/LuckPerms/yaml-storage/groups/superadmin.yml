@@ -1,0 +1,11 @@
+name: superadmin
+permissions:
+- essentials.*
+- luckperms.*
+- worldedit.*
+- mypet.admin
+parents:
+- admin
+prefixes:
+- '&4[SA] ':
+    priority: 100

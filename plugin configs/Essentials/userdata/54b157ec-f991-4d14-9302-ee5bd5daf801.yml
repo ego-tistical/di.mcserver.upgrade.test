@@ -1,0 +1,30 @@
+lastAccountName: Ch0pSh0t
+timestamps:
+  login: 1587024340194
+  logout: 1587024370663
+  lastteleport: 1582854043549
+ipAddress: 209.207.13.86
+lastlocation:
+  world: world
+  x: -1579.6066434698305
+  y: 68.0
+  z: 53.71713581660971
+  yaw: 296.06726
+  pitch: 16.949825
+logoutlocation:
+  world: world
+  x: -3918.669120332609
+  y: 64.0
+  z: -1049.6014201889905
+  yaw: -5.8260803
+  pitch: 19.499712
+money: '80.0'
+afk: false
+homes:
+  home:
+    world: world
+    x: -3921.300000011921
+    y: 64.0
+    z: -1049.125034469137
+    yaw: -350.35687
+    pitch: 39.45253

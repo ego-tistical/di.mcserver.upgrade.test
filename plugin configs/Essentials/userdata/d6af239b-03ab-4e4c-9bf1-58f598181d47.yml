@@ -1,0 +1,30 @@
+lastAccountName: UmmSure
+timestamps:
+  login: 1585998914794
+  logout: 1586000199405
+  lastteleport: 1585946560007
+ipAddress: 76.180.40.233
+money: '7534.0'
+afk: false
+logoutlocation:
+  world: world
+  x: -2866.03243151213
+  y: 71.0
+  z: -970.814408801411
+  yaw: 55.291473
+  pitch: 10.412717
+lastlocation:
+  world: world
+  x: -2861.300000011921
+  y: 66.0
+  z: -978.3000000119209
+  yaw: 98.854576
+  pitch: 11.97954
+homes:
+  home:
+    world: world
+    x: -2869.5
+    y: 71.0
+    z: -968.5
+    yaw: 1.1343384
+    pitch: 0.22640896

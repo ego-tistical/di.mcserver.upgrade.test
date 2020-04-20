@@ -1,0 +1,32 @@
+lastAccountName: The_Fleens
+timestamps:
+  login: 1585430699945
+  lastteleport: 1585433945046
+  jail: 0
+  logout: 1585436399332
+ipAddress: 184.174.155.153
+lastlocation:
+  world: world
+  x: -1607.6440524172817
+  y: 63.0
+  z: -18.166153310995636
+  yaw: 48.58893
+  pitch: 16.499977
+afk: false
+jailed: false
+homes:
+  home:
+    world: world
+    x: -1379.1268977131294
+    y: 66.0
+    z: -3.6086956239275514
+    yaw: 103.32367
+    pitch: 21.449965
+logoutlocation:
+  world: world
+  x: -1375.3051549340746
+  y: 70.0
+  z: -2.874995816803896
+  yaw: -108.680115
+  pitch: -2.7000022
+money: '33912.5'

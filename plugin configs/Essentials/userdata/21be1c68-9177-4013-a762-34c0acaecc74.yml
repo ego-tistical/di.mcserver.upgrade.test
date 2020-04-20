@@ -1,0 +1,30 @@
+lastAccountName: NoahPlay
+timestamps:
+  login: 1585232596531
+  lastteleport: 1585234585995
+  logout: 1585234609900
+ipAddress: 91.11.138.63
+money: '30843.75'
+lastlocation:
+  world: world
+  x: 230.51943691412868
+  y: 45.0
+  z: -2714.699999988079
+  yaw: 274.0728
+  pitch: 19.122467
+homes:
+  home:
+    world: world
+    x: -623.659843417354
+    y: 66.0
+    z: -1865.572044397714
+    yaw: 152.25989
+    pitch: 35.865578
+logoutlocation:
+  world: world
+  x: -625.2543192723931
+  y: 63.0
+  z: -1866.0962560102842
+  yaw: -86.57323
+  pitch: 15.551767
+afk: false

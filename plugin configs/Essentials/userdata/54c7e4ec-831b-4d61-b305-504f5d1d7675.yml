@@ -1,0 +1,29 @@
+lastAccountName: TinyMario
+timestamps:
+  login: 1583689160753
+  lastteleport: 1583684320344
+  logout: 1583689952456
+ipAddress: 83.161.148.124
+lastlocation:
+  world: world
+  x: -2562.354785360037
+  y: 91.0
+  z: -1072.0620065996463
+  yaw: -4.711807
+  pitch: 8.699536
+homes:
+  home:
+    world: world
+    x: -2685.836657488821
+    y: 63.0
+    z: 618.1321556474528
+    yaw: -21.571432
+    pitch: 32.550972
+money: '400.5'
+logoutlocation:
+  world: world
+  x: -2689.307308786418
+  y: 49.0
+  z: 637.6999999880791
+  yaw: 165.05322
+  pitch: 25.04998

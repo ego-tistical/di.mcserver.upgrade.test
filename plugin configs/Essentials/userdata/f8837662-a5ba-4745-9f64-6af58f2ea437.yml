@@ -1,0 +1,30 @@
+lastAccountName: justifiable187
+timestamps:
+  login: 1586048514641
+  logout: 1586053049256
+  lastteleport: 1586047964990
+ipAddress: 128.90.83.169
+logoutlocation:
+  world: world
+  x: -362.4181673468274
+  y: 71.0
+  z: -56.26956080885088
+  yaw: -29.636597
+  pitch: 29.549276
+lastlocation:
+  world: world
+  x: -391.69999998807907
+  y: 50.0
+  z: -73.1890899105836
+  yaw: 326.7976
+  pitch: 13.80019
+money: '500.0'
+homes:
+  home:
+    world: world
+    x: -370.5487083857225
+    y: 72.0
+    z: -58.01467360437695
+    yaw: -105.6925
+    pitch: 27.449472
+afk: false
